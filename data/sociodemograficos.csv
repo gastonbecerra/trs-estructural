@@ -1,0 +1,783 @@
+id,carrera,edad,medio,medios_cursos,medios_diarios,medios_formacion,medios_sitios,nivel_estudios,sexo,carrera2,estimulo,tiempo
+-Lw0L5D8GRExGDVkFaUS,Otras Ciencias Sociales y empresariales,30,Wired,FALSE,TRUE,TRUE,TRUE,posgrado_curso,varon,Sociales y empresariales,Inteligencia artificial,1576275405491
+-LwWBsBk8B6pYgaIbIMr,Educación,39,NA,TRUE,FALSE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1576809735579
+-LwWKBnHtIyt_-w_Yphx,Sociología y Política,38,Coursera,TRUE,TRUE,FALSE,FALSE,posgrado_completo,varon,Sociales y empresariales,Inteligencia artificial,1576812074606
+-Lxi-8WscHCMSexYbcFz,Computación e Informática,18,Stack Overflow,TRUE,FALSE,TRUE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Conocimiento,1578098242195
+-M0-0z2zotlRiIwfkQce,Otras Ciencias Sociales y empresariales,30,google,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Ciencia de datos,1581621996495
+-M0-4Gp_gyHCRCZSjpjJ,"Economía, Negocios y Administración",28,Internet,FALSE,FALSE,TRUE,TRUE,uni_curso,varon,Sociales y empresariales,Conocimiento,1581622866597
+-M0-5LZpujeV-7Nz4J6F,Otras Ingenierías,29,NA,FALSE,FALSE,FALSE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Ciencia de datos,1581622408810
+-M0-9OQkabuGoSmceB5E,Psicología,34,"YouTube, Google Scholar",FALSE,FALSE,TRUE,TRUE,uni_completo,varon,Psicología y medicina,Big data,1581624272636
+-M0-Bdhrtm0iTLACWVIl,Psicología,41,Google scholar,FALSE,TRUE,TRUE,TRUE,uni_completo,mujer,Psicología y medicina,Conocimiento,1581624741616
+-M0-CQEYqqhepgr6iuJ6,Psicología,41,Google scholar,FALSE,TRUE,TRUE,TRUE,uni_completo,mujer,Psicología y medicina,Conocimiento,1581624741616
+-M0-J5YFaOQ0dxWw9QvA,Computación e Informática,34,NA,TRUE,TRUE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Conocimiento,1581626820846
+-M0-OCP1j4wbTY-lgZAx,Sociología y Política,39,NA,FALSE,FALSE,TRUE,FALSE,posgrado_completo,varon,Sociales y empresariales,Conocimiento,1581628261465
+-M038VoU7ICfruBo38-V,Psicología,30,TN,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1581691016298
+-M03tH2YwW4heuIKu8ps,Psicología,36,Universitaria,FALSE,TRUE,TRUE,TRUE,uni_curso,varon,Psicología y medicina,Inteligencia artificial,1581703161056
+-M0DAr48IImoMsTiKhaK,Psicología,46,Scielo,FALSE,FALSE,TRUE,TRUE,uni_curso,varon,Psicología y medicina,Ciencia de datos,1581859380136
+-M0DUBR8E6m_LBy26ERI,Psicología,39,NA,FALSE,FALSE,FALSE,TRUE,uni_completo,varon,Psicología y medicina,Ciencia de datos,1581864459266
+-M0KG86wUxbjKn2YZhdp,Psicología,33,Ns/Nc,FALSE,TRUE,FALSE,TRUE,uni_curso,varon,Psicología y medicina,Ciencia de datos,1581978078673
+-M0U6kFwRY7AWj0WNCUa,Educación,21,"Twitter, google, la nacion",FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1582143607096
+-M0U7_pJAU9Ehga0LIWq,"Economía, Negocios y Administración",26,Instagram,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1582143962860
+-M0UC5hYZYjtuyKMHBJM,"Urbanismo, Geografía y Arquitectura",38,Blog,TRUE,TRUE,FALSE,TRUE,posgrado_curso,varon,Sociales y empresariales,Conocimiento,1582144914256
+-M2M9R-DBBKvCzlYoWR0,Psicología,51,"Web, redes, pdf, youtube",FALSE,FALSE,FALSE,TRUE,uni_completo,varon,Psicología y medicina,Big data,1584157555119
+-M2MhH9dvNq3RzShEV1-,Sociología y Política,29,Investigación de mercado,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1584166823062
+-M2OlvD1JZjfdTGZsbHw,Comunicación y Medios,36,Infobae perfil infoveloz minutouno,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1584201546531
+-M2OunC4N1HIrIdCXw7z,Educación,28,NA,TRUE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1584203823410
+-M2Py7OYFbW9okIShiK4,Computación e Informática,27,Google,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1584221295684
+-M2QSE5spCFoOnV5s1Ud,"Economía, Negocios y Administración",20,La Nacion,TRUE,TRUE,TRUE,TRUE,uni_curso,varon,Sociales y empresariales,Ciencia de datos,1584229583216
+-M2R8KZd0JHGquTVkVba,Sociología y Política,19,Nada en específico (al azar),FALSE,TRUE,FALSE,FALSE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1584240948593
+-M2Tcm3-ieoFiRKN9awP,Otras Ciencias Sociales y empresariales,35,Web,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1584283065378
+-M2U9XO1xbr_iVeyygQL,"Economía, Negocios y Administración",23,Noticiero,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584280115605
+-M2UARgl6K9crUNkHihJ,Lengua y Literatura,19,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1584292026498
+-M2UCNA1khHcJAK1HfCd,Psicología,24,NA,TRUE,TRUE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1584292652718
+-M2UNscfItR-VKSKId1m,Matemáticas,28,NA,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1584295611657
+-M2UbPdJbmdGlyJ2Ev-E,Educación,25,NA,TRUE,FALSE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1584299343887
+-M2V1BzPUKVf3m0EIIQ-,Sociología y Política,30,Udemy,TRUE,FALSE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Ciencia de datos,1584306338723
+-M2V1e-eFzxowPwwxlek,Derecho,28,Internet,FALSE,TRUE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Ciencia de datos,1584306384453
+-M2V_ZNG-iA1FZfjiA8Q,Otras Ciencias Sociales y empresariales,29,"Infobae, redes sociales,campus universitarios",TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584315680890
+-M2VaVKUSk1b23LNRn5x,"Economía, Negocios y Administración",18,Google,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584315847141
+-M2VrWvN8OElpLuYICxi,Biología,25,NA,TRUE,FALSE,TRUE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Ciencia de datos,1584320532047
+-M2VuN29-er5iPCMSLpQ,Derecho,31,LinkedIn,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Ciencia de datos,1584320934449
+-M2W1neOZeEpldXzRyb6,Derecho,24,NA,TRUE,TRUE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1584323460353
+-M2WVsZ-_IUoEbxBpR26,Otras Médicas y de la Salud,27,Clarín,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1584331289436
+-M2YQQ8zw9SQr7ReyQse,Psicología,23,NA,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,Psicología y medicina,Ciencia de datos,1584363315338
+-M2YdUBFrDxYvSG9E7X-,Psicología,33,"Revista anfibia, autores como franco Berardi bifo",TRUE,TRUE,TRUE,TRUE,uni_completo,varon,Psicología y medicina,Big data,1584367045707
+-M2ZPe7ZxQqZ5wlKKwv_,Física,30,Profesorado de física,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Conocimiento,1584379962662
+-M2_4r52vwcW_JKMMCW9,Educación,30,Varias fuentes online,FALSE,TRUE,FALSE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584391360609
+-M2_BF9FhKtKerIS-m_v,Psicología,33,Estudios con validez científica,TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Psicología y medicina,Conocimiento,1584392973972
+-M2_JmA6B9Hbw9zeKgX9,Sociología y Política,28,BID; Página 12; Infobae; revistas científicas,FALSE,TRUE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1584395155585
+-M2_T-DMepuBXF4aDdvC,Computación e Informática,27,Internet,TRUE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1584397374551
+-M2_iO9x2A-WaBMJIQvN,Historia y Antropología,22,Radio,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1584401922935
+-M2aO3obHm9zyRHATdIX,Otras Ciencias Sociales y empresariales,26,Internet en general,TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1584413180093
+-M2ad18zqr2KjGUCMABe,Otras Ciencias Sociales y empresariales,38,Infobae,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1584417179695
+-M2bD0ysQm2fF6YIXdol,Filosofía y Religión,20,"Youtube, Facebook, Google",TRUE,FALSE,FALSE,TRUE,uni_curso,varon,Humanidades,Inteligencia artificial,1584426961296
+-M2bdaw3Z0gr278RXpoB,Arte,38,NA,TRUE,FALSE,FALSE,FALSE,posgrado_curso,mujer,Humanidades,Inteligencia artificial,1584434152041
+-M2cwJY5t44seDGPjsIO,Otras Humanidades,24,Redes sociales,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Humanidades,Inteligencia artificial,1584455874544
+-M2d82bYnFG_lGiw8vbh,Sociología y Política,34,Facebook,TRUE,TRUE,TRUE,FALSE,uni_completo,varon,Sociales y empresariales,Inteligencia artificial,1584459268840
+-M2dJa_ek2qv-rRMQuW9,Arte,30,NA,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,Humanidades,Inteligencia artificial,1584462165854
+-M2dZI2HKOkR_fDMwA4X,Otras Ciencias Sociales y empresariales,21,Google en general,TRUE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584466334625
+-M2de2c3Hyqv3ubuhvIU,Comunicación y Medios,27,Varias,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1584467612073
+-M2e6O_WHZM0MXYY-thH,Otras Naturales y Exactas,20,Harvard University (Facebook's page),FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1584475609274
+-M2fELkpj6exAMlFMdKd,Arte,38,Nación,TRUE,FALSE,FALSE,TRUE,uni_completo,varon,Humanidades,Big data,1584494380614
+-M2fa93EaxIziPTIDVZq,"Economía, Negocios y Administración",31,NA,TRUE,FALSE,FALSE,TRUE,uni_completo,varon,Sociales y empresariales,Inteligencia artificial,1584500461679
+-M2fccaJlJ2_P0vc866_,Química,28,NA,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Ciencia de datos,1584501169781
+-M2fpOVv1Q7R8KPgXPKb,Sociología y Política,23,Charlas,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1584504390979
+-M2g4wSHzU9TUw55916b,Comunicación y Medios,19,NA,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1584508807662
+-M2hqEpur6zagMpnQfmf,Biología,28,Independiente,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1584538159447
+-M2i0rFGM9ErVXck8vtf,Derecho,23,"Cohete a la Luna, Alfredo Zaiat",TRUE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1584541240099
+-M2i3IK6BZvZimYl7-KA,Historia y Antropología,26,Coursera,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1584541786173
+-M2ieGdfrzpkyEWXEE6x,Sociología y Política,24,LinkedIn,TRUE,FALSE,FALSE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584551830294
+-M2ifpkvdvYbkERCFhN5,Computación e Informática,23,"Digital house,  Neurona,  IBM",TRUE,TRUE,TRUE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Ciencia de datos,1584552083117
+-M2ip3BbWLmfSrgz2uYm,Otras Humanidades,35,Telesur,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Humanidades,Ciencia de datos,1584554624093
+-M2j8TRe1A9HzDQOz-Dl,Educación,21,Facebook,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1584559971507
+-M2j_dvQIpocfeq_ONWP,Sociología y Política,27,Sitios web,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1584567348109
+-M2k60XhyQZGUZBnXYRd,Psicología,20,CONICET,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1584575907759
+-M2kRT_Ls0HPsuxuN9ev,Arte,21,NA,FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,Humanidades,Big data,1584581604758
+-M2kwW0AiueR0x58iZSc,Otras Ingenierías,29,Youtube,TRUE,FALSE,TRUE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1584590114700
+-M2lLMSCyvaXR5i80f_p,Educación,29,NA,TRUE,TRUE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1584597017911
+-M2n45K5ko32iExLG1_O,Derecho,22,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1584626017860
+-M2nvwPnmHoGrla4CCtb,Educación,39,NA,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1584640358035
+-M2nzPpggxIe-XlaG5i-,Derecho,29,"Redes sociales: Youtube, Facebook",FALSE,FALSE,FALSE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Ciencia de datos,1584641280131
+-M2oCta_znnbqDsXi_is,Otras Humanidades,37,Gobierno Abierto,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Humanidades,Big data,1584644856764
+-M2oGyRuvL8b87j5Os7v,Biología,29,Diversas fuentes online,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1584645605848
+-M2oZJGI2WdGUjFsLeND,Ing. Eléctrica y de la Información,24,GitLab xD,TRUE,TRUE,FALSE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Conocimiento,1584650908838
+-M2ogUdDSQZUIrYi_-Fe,Psicología,61,libros: Enrique Pichon Riviere,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Conocimiento,1584653091930
+-M2oma_G7HRxToHw-cGT,Computación e Informática,30,facebook,TRUE,TRUE,TRUE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1584654683459
+-M2omr70hGiMyrhnDOiz,Biología,25,NA,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1584654809789
+-M2opIfIguaX0fJ1Itbk,Educación,33,Google Academics,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1584655150708
+-M2ovBqkhB2CSvAjDvYp,Computación e Informática,31,youtube,TRUE,TRUE,TRUE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Ciencia de datos,1584656234069
+-M2p0lkjAciPE1wOCWYj,Derecho,33,internet en general,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1584658664569
+-M2p0ylnKukKQXwe_hNM,"Economía, Negocios y Administración",24,NA,FALSE,FALSE,FALSE,FALSE,posgrado_completo,mujer,Sociales y empresariales,Big data,1584658659164
+-M2p1H-fvCeWb85IyKVJ,Comunicación y Medios,24,Infobae,FALSE,FALSE,FALSE,TRUE,posgrado_completo,mujer,Sociales y empresariales,Inteligencia artificial,1584658668793
+-M2p1iZ562gX6csi37hv,Arte,24,"Cómics, diarios, podcast, etc",TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1584658803170
+-M2p40WSwfEKdCuC4er1,Biología,23,Grupos de Facebook relacionados a la biología (ej. Biólogos Argentinos),FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Ciencia de datos,1584659258142
+-M2p9fc9-KRyctYz_znH,Computación e Informática,23,"Stack Overflow, Youtube, Udemy",TRUE,FALSE,TRUE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Ciencia de datos,1584661095829
+-M2pBlII2ocMygphwNlH,Computación e Informática,31,NA,TRUE,TRUE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1584661225999
+-M2pNaeMcY0Po4PuPQBR,Comunicación y Medios,29,Internet,FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1584659316512
+-M2prFg4RZTAVNvtqBQa,Educación,32,"Investigaciones publicadas en internet, artículos periodísticos",FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1584672631413
+-M2pubE2ecDc0cn9cfTU,Matemáticas,20,3blue1brown,TRUE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1584673526421
+-M2pxDve7XtGts-7hv1K,Sociología y Política,33,Redes sociales,TRUE,FALSE,FALSE,TRUE,uni_curso,otro,Sociales y empresariales,Ciencia de datos,1584674026001
+-M2qFJ6T6V28WD32XcsB,"Urbanismo, Geografía y Arquitectura",26,Un compañero del trabajo,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584679319729
+-M2sF500LfduXuQ9IwZj,Otras Naturales y Exactas,27,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1584712705846
+-M2t2bFQucCzlQDiqtjE,Ing. Eléctrica y de la Información,24,reddit,FALSE,TRUE,TRUE,TRUE,posgrado_curso,varon,"Física, comput. e ingeniería",Conocimiento,1584726169661
+-M2tmR-CW5a6i0gnwQ3D,Educación,22,NA,TRUE,FALSE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1584738549749
+-M2uUDxoOXAOC5Nadm5Q,Educación,22,facebook,FALSE,FALSE,FALSE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Big data,1584750282913
+-M2ulnBkfb-NdKeEABbo,Otras Ingenierías,25,NA,TRUE,FALSE,FALSE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1584753839664
+-M2unhBUHv83MkqDKjBo,Derecho,22,NA,TRUE,FALSE,FALSE,FALSE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1584755668009
+-M2v0ec4SiiPOGUqFGUb,Arte,20,"Last week tonight, Nada es privado (documental)",FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1584759197194
+-M2v7LiYVkXlGKejusBn,"Economía, Negocios y Administración",38,Indec,FALSE,FALSE,TRUE,FALSE,uni_completo,varon,Sociales y empresariales,Ciencia de datos,1584761082512
+-M2xF57dopHK9BpRx5Hh,Arte,38,NA,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Humanidades,Big data,1584796700818
+-M2xGoFFBmmgTKpYvfhY,Psicología,32,NA,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Big data,1584796822983
+-M2xPtAsXnj6573wthIF,Psicología,31,Redes sociales,FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Big data,1584799524646
+-M2xg2mPde6HRW2gWYrA,Otras Humanidades,35,Mit rewiev,TRUE,FALSE,TRUE,TRUE,uni_completo,varon,Humanidades,Inteligencia artificial,1584803857397
+-M2xjjMpSsLTMt2tXGDt,Otras Ingenierías,39,Textos académicos,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1584804947810
+-M2xtkaLTAGxORvpcqnr,Arte,29,Internet,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1584802129081
+-M2xuNL8n-yA2Al5IRKB,Arte,29,Internet,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1584807749235
+-M2y1E-PFq9RRVnKmekK,"Economía, Negocios y Administración",23,Google,FALSE,TRUE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Ciencia de datos,1584809356934
+-M2y5cHBFijHTMaCvyF6,"Economía, Negocios y Administración",40,Sas software y soluciones de analitica,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584810404810
+-M2yAbCja-NoP1Q9Mq22,Computación e Informática,18,Platzi,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1584812294037
+-M2yHEk4O2PrIpJ7RFKp,Educación,29,NA,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1584813395256
+-M2zO90WdpFEVPalRjSM,Otras Humanidades,22,NA,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Humanidades,Big data,1584832612652
+-M2zTbUMqEycnjuOnRdU,Educación,32,NA,TRUE,FALSE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1584833597344
+-M2zuMtoN3yX4d6pW4zZ,Otras Humanidades,34,Redes  sociales y periódicos,TRUE,TRUE,FALSE,FALSE,uni_completo,mujer,Humanidades,Inteligencia artificial,1584841273202
+-M3-BaDuKvXift-fP_2Z,Otras Ciencias Sociales y empresariales,25,INFOBAE,FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584846009743
+-M3-EyU4jcQEgYNAOe3s,"Economía, Negocios y Administración",22,NA,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1584846999079
+-M3-OpTILQrT22YVG017,Sociología y Política,22,"Crónica, infobae, argentinos online",TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584849538527
+-M3-QXl0-gKlc0UmpyNn,Psicología,35,No sé exactamente qué es Big data,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,Psicología y medicina,Big data,1584850006907
+-M3-TXGLNv4QAqOmgcxH,"Economía, Negocios y Administración",24,Portales de noticias y redes sociales,FALSE,TRUE,FALSE,FALSE,uni_curso,varon,Sociales y empresariales,Ciencia de datos,1584850752643
+-M3-wCHatIqU2xkbBA15,Comunicación y Medios,23,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584858457568
+-M31vMlVJylLVAX042od,Química,38,Buscadores,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1584891595835
+-M320eVXp1WHTCnvreua,Computación e Informática,28,SoloLearn,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Conocimiento,1584893360679
+-M327IC9FEA1hloPx769,Historia y Antropología,23,You tube,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1584895168517
+-M327XCoCl8iEc4RI2wn,Otras Ciencias Sociales y empresariales,29,Ninguno en especial,FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1584895176166
+-M32POeX9RW1rFTkIb6d,Computación e Informática,26,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1584899952315
+-M32VykWfiNM5m0P3U9V,Biología,23,Internet en general,TRUE,TRUE,FALSE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1584901613641
+-M332vBoWfVGSMA-QvLi,Computación e Informática,20,Nature,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1584910791146
+-M33fCilOKv74QaAq5qO,"Economía, Negocios y Administración",22,William Chen,FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1584921072371
+-M33i_ThEOTL3z-8DLKG,Sociología y Política,24,Universidad,FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1584921975221
+-M3427nZjtQyFG-JqjAn,Otras Humanidades,25,Artículos periodísticos,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1584927406305
+-M3446M4bsV6BsIXd7Nf,Otras Ingenierías,26,Youtube,TRUE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1584924883673
+-M3SNRpAxiy-4pTlRfxi,Sociología y Política,38,Datacamp,TRUE,TRUE,FALSE,TRUE,posgrado_completo,varon,Sociales y empresariales,Big data,1585335810756
+-M3lt2Bhf7uv-k52J35p,"Turismo, Eventos y Gastronomía",23,Entorno turístico,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1585679783239
+-M3ms92KMG433cWx73Wd,Otras Ingenierías,27,Google,TRUE,FALSE,FALSE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1585696237544
+-M3qDjjyu2YlrWFiSXZF,"Turismo, Eventos y Gastronomía",21,Ninguna,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1585752639272
+-M3sxPk0nUoYrZGkm-ja,Psicología,24,Pappers,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1585798291161
+-M3t-fbu_yAwK4fXjsKU,Psicología,20,"A24, Twitter , Telefe",FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Conocimiento,1585799169325
+-M3t4Jqup2nQDOcpkC8l,"Turismo, Eventos y Gastronomía",25,NA,FALSE,FALSE,FALSE,TRUE,uni_completo,varon,Sociales y empresariales,Inteligencia artificial,1585800201591
+-M3vqw3t1QI36UPz-j_o,Química,21,NA,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Ciencia de datos,1585847007571
+-M3vrEkg5TLL18lIpjhU,"Turismo, Eventos y Gastronomía",66,Pagina 12,FALSE,TRUE,FALSE,FALSE,posgrado_curso,varon,Sociales y empresariales,Ciencia de datos,1585847063256
+-M3vrm1-PnnPcRZt85pD,Otras Humanidades,42,Libros cuentas de twitter investigaciones,FALSE,FALSE,TRUE,TRUE,posgrado_curso,mujer,Humanidades,Big data,1585847280425
+-M3vrtaCfmnZHt109At7,"Turismo, Eventos y Gastronomía",23,NA,TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1585847361816
+-M3vs7oqT4KboKP9xjC5,Biología,70,Google,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Big data,1585847026542
+-M3vsOalFuMRlJTv3okE,"Turismo, Eventos y Gastronomía",23,Comentarios,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Ciencia de datos,1585847403750
+-M3vufbKu1--Lc2bgBC-,Arte,44,Internet,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Humanidades,Inteligencia artificial,1585847660568
+-M3w2JpiZIw8kpUsskzv,"Turismo, Eventos y Gastronomía",26,Facebook,TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1585850229107
+-M3wEfnQGCY9Ms58mNAx,Medio ambiente,21,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1585853479814
+-M3wGsVZGTr6H_MIHABL,"Turismo, Eventos y Gastronomía",23,Clarin,TRUE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1585853837980
+-M3wHrXTcq319J5ULr4Z,Psicología,19,Youtube,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1585854175514
+-M3wMyN9MV_Luxx7PgiK,"Turismo, Eventos y Gastronomía",21,smart travel news,TRUE,TRUE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1585855696905
+-M3wdRDfef_BI0ngSMUN,Otras Humanidades,55,"Página 12, posteos",FALSE,TRUE,FALSE,TRUE,posgrado_completo,mujer,Humanidades,Ciencia de datos,1585860144803
+-M40GnKqZDUDVKuHZeN1,"Turismo, Eventos y Gastronomía",26,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1585937838939
+-M4605TVwYB7Jqvyxfwz,Psicología,26,Lobo Suelto,FALSE,TRUE,FALSE,FALSE,posgrado_curso,varon,Psicología y medicina,Big data,1586034221182
+-M466SEgzBKoYeP53Q5E,Química,26,El gato y la caja,TRUE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Ciencia de datos,1586035894052
+-M468Wvd5zkbt3AURgKb,Psicología,37,La Nacion,TRUE,TRUE,TRUE,FALSE,posgrado_completo,varon,Psicología y medicina,Conocimiento,1586036440030
+-M46ULzYYzYfjd15rq9l,Psicología,51,Universidad,TRUE,TRUE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1586041511256
+-M46fJznS6rvED7w4-Lv,"Urbanismo, Geografía y Arquitectura",39,Telegram,TRUE,TRUE,TRUE,TRUE,posgrado_completo,varon,Sociales y empresariales,Big data,1586045272618
+-M46vWAtpLWpJxqgmHUK,Derecho,37,"Face, Universidad Nacional de Lomas de ZAmora Facultad de ingenieria",TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1586049537479
+-M46zXQYg6QKgZVX_pQv,"Economía, Negocios y Administración",34,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1586050487079
+-M4710w3FVeTgjdkpJPX,"Economía, Negocios y Administración",36,.,FALSE,TRUE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Big data,1586051211272
+-M47ExPq-lbDnXrT8wtS,Ciencias de la Salud,23,Facebook,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1586054854341
+-M47M8rn69ZaP2OdOy7R,Lengua y Literatura,29,Facebook,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1586056711698
+-M47Wjv9dk5p4e5a6Iq3,Lengua y Literatura,24,NA,FALSE,FALSE,FALSE,FALSE,uni_completo,mujer,Humanidades,Big data,1586058411045
+-M4822FBV7CV-ctwFc9e,Derecho,24,NA,FALSE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1586068374246
+-M48F9myllf8eLxd9vhd,Educación,33,Sitios varios de instituciones académicas,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1586071634120
+-M48eMhjGhzzi7kwa7vt,Derecho,31,"La garganta ponderosa, revista y editorial sudestada",TRUE,TRUE,TRUE,FALSE,posgrado_curso,otro,Sociales y empresariales,Conocimiento,1586078520117
+-M48q9mNBBmUMXpAydKS,Comunicación y Medios,29,NA,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1586081670344
+-M48qPT14N4x4tX0sMf7,Computación e Informática,22,Youtube,FALSE,FALSE,TRUE,TRUE,posgrado_curso,varon,"Física, comput. e ingeniería",Big data,1586081898864
+-M49FZMqE4c4ar6M73lN,Matemáticas,28,NA,TRUE,FALSE,FALSE,FALSE,posgrado_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1586088553711
+-M49ODP8JeUSoxrj0H5P,Sociología y Política,27,Maestría en Ciencia Política UTDT y links varios que salen desde Twitter.,TRUE,TRUE,TRUE,TRUE,posgrado_curso,varon,Sociales y empresariales,Conocimiento,1586090810046
+-M49dkdAStWh38ATCF6I,"Urbanismo, Geografía y Arquitectura",39,Internet. Twitter,TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1586094872693
+-M49rxxyhoW5xgdBNa0v,Educación,40,"Internet, revistas digitales",FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1586098808615
+-M49y46ZZ2pm7i3UcNLu,Otras Humanidades,28,NA,FALSE,TRUE,TRUE,FALSE,uni_completo,mujer,Humanidades,Big data,1586100461523
+-M4A03asbnw6nzk8I4vR,Arte,28,Instagram,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Humanidades,Big data,1586101217314
+-M4AJd3BtrZ3xduq4osn,Otras Ingenierías,25,NA,TRUE,FALSE,TRUE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Big data,1586106521013
+-M4ASo2XPfFH2ttOIhnA,Computación e Informática,20,Busco en Google,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1586108438000
+-M4AcPbQpTC-METSfP5k,Arte,26,Facebook,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1586111479974
+-M4B6M8TEh_l-0P36sgI,Ing. Química,28,NA,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Ciencia de datos,1586119720127
+-M4BTG5Z_ix9QGfDEOxC,Sociología y Política,22,infobae y Clarin,FALSE,TRUE,FALSE,FALSE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1586125101985
+-M4Bn33SSZxOi5UBBGNl,Psicología,19,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,varon,Psicología y medicina,Ciencia de datos,1586131133605
+-M4C0ns9siZEVsz2qby0,Computación e Informática,38,La nación,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1586135054159
+-M4Cf3KvtccpvZrsub2l,Arte,39,IUPA,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,Humanidades,Big data,1586145756040
+-M4CoQCiGFJjbORvBsQH,Educación,34,Diarios alternativos,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1586148245519
+-M4D0gborpciv21zSQQo,Biología,39,NA,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1586151772981
+-M4D7ZoTDQIfkdz0QVA9,Otras Humanidades,33,Internet,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1586153622610
+-M4DAhGEmv48KbDyaxvK,Comunicación y Medios,27,NA,TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Ciencia de datos,1586154379370
+-M4DTrFzmy3pxm-A7w_U,Sociología y Política,44,NA,FALSE,FALSE,TRUE,FALSE,uni_completo,varon,Sociales y empresariales,Big data,1586159355136
+-M4Dmi9DXcdYNEvPds4F,Psicología,19,Facebook,FALSE,FALSE,FALSE,TRUE,posgrado_completo,varon,Psicología y medicina,Big data,1586164633611
+-M4E07MEGVyMuAI6Ga6m,Historia y Antropología,25,NA,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Humanidades,Big data,1586168391042
+-M4E5_eoTkThnp-SsQPd,Comunicación y Medios,26,Facebook,FALSE,TRUE,TRUE,TRUE,uni_curso,varon,Sociales y empresariales,Ciencia de datos,1586169704396
+-M4EYUy59HMuDYAVQiY6,Sociología y Política,36,"Slack, twitter, cursos en datos",TRUE,FALSE,FALSE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1586177240561
+-M4EyfqsuQyVAJ0-vi3k,Otras Naturales y Exactas,31,twitter,TRUE,FALSE,FALSE,TRUE,posgrado_curso,varon,"Física, comput. e ingeniería",Big data,1586184642819
+-M4FCXhNtqZ5TQk3f0Hr,Sociología y Política,23,NA,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1586188373261
+-M4FE_8DpDP33JDJhyFR,Ciencias de la Salud,31,Redes sociales,TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Big data,1586189036270
+-M4FIRbfvTG9q013opag,Otras Ciencias Sociales y empresariales,45,Facebook,FALSE,TRUE,FALSE,FALSE,uni_completo,varon,Sociales y empresariales,Ciencia de datos,1586190159385
+-M4FK5upcnrepWLENZcO,Matemáticas,36,Clarin,TRUE,TRUE,FALSE,TRUE,uni_completo,varon,"Física, comput. e ingeniería",Inteligencia artificial,1586190406682
+-M4FWk0swYA0cg7bjLpg,Educación,28,Portales de internet varios,TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1586193731632
+-M4FePo9Z4Nueg3GuFdW,Otras Humanidades,33,"Clarín, TN",TRUE,TRUE,TRUE,TRUE,posgrado_completo,mujer,Humanidades,Conocimiento,1586196093990
+-M4FgHjOrh1WWkiE4Jpq,Comunicación y Medios,26,NA,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1586196604786
+-M4G0lbgtzXG3Ztts47C,Psicología,33,google,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1586153427433
+-M4G4quSr9ib-mdfngz3,Ciencias de la Salud,37,NA,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,Psicología y medicina,Big data,1586203162474
+-M4GKqHNosx4NqQ_VwpH,Historia y Antropología,29,NA,TRUE,FALSE,TRUE,TRUE,uni_completo,varon,Humanidades,Big data,1586207279287
+-M4GrXMfSAzmuoaAbilF,Derecho,39,Facebook,FALSE,FALSE,FALSE,TRUE,uni_completo,varon,Sociales y empresariales,Big data,1586216219951
+-M4H4gQ9Gm8dOjOhULIZ,Otras Médicas y de la Salud,44,Google académico,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Conocimiento,1586219827514
+-M4H5HYLoPzRRJxflHdw,Otras Médicas y de la Salud,44,Google,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1586220163485
+-M4H9YevJdxGiEBB66V4,Otras Humanidades,40,Clarin,FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,Humanidades,Big data,1586221123447
+-M4HD5H2nIEZcw8TQkN_,Derecho,25,"Búsqueda de información por internet a diario, en distintas fuentes dependiendo de la materia.",TRUE,TRUE,TRUE,TRUE,posgrado_completo,varon,Sociales y empresariales,Conocimiento,1586222229829
+-M4HpW0_DE3Wt0F5vvoR,Filosofía y Religión,33,Filosofía posmoderna,TRUE,TRUE,TRUE,FALSE,posgrado_curso,mujer,Humanidades,Big data,1586232375507
+-M4I6KPtvqoTbgOf9Z_q,Educación,21,Google,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1586237216988
+-M4ICY2XKcaD7MG1aOE7,Otras Humanidades,42,Universidad,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,Humanidades,Ciencia de datos,1586238798472
+-M4IJ52d0a2XrIJcvxCW,Psicología,22,Clarin,FALSE,TRUE,FALSE,FALSE,uni_curso,varon,Psicología y medicina,Ciencia de datos,1586240356289
+-M4IVr7D_FeJi_d7JSly,Educación,39,NA,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1586243351847
+-M4Jv7XQYFsQsjyUhQ4B,Otras Humanidades,35,No tengo una principal,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Conocimiento,1586267458985
+-M4KIzz5gS5a9Llm36fN,Biotecnología,24,"Clarín, infobae, la nación",FALSE,TRUE,FALSE,FALSE,posgrado_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1586274072964
+-M4L_XzpNOuxu5-DO1NP,Sociología y Política,38,Stack,TRUE,TRUE,FALSE,TRUE,posgrado_completo,varon,Sociales y empresariales,Inteligencia artificial,1586295547427
+-M4LjKwWfkIxagNTZbwf,Matemáticas,28,Facebook,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Ciencia de datos,1586297925930
+-M4Lss3W7OI-gRAUdPgq,Psicología,24,NA,FALSE,FALSE,FALSE,FALSE,uni_curso,varon,Psicología y medicina,Big data,1586300277509
+-M4MGcydm5tN5wYQ_m1j,Derecho,26,NA,TRUE,FALSE,TRUE,FALSE,posgrado_completo,varon,Sociales y empresariales,Ciencia de datos,1586307005440
+-M4MHrfa2YMotVOJuC1A,Otras Ciencias Sociales y empresariales,22,Facebook,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1586307222300
+-M4MYAypjzK32kCQXPW5,Derecho,27,Revistas científicas,TRUE,TRUE,TRUE,TRUE,posgrado_curso,varon,Sociales y empresariales,Ciencia de datos,1586311072269
+-M4MkyqckNdDW3sUYZbN,Educación,22,NA,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1586315270260
+-M4NCeINm8i0fO1dJpbV,Educación,22,Psicologia Social,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1586322705305
+-M4PU7s6fDvmB0Njhlf3,Otras Médicas y de la Salud,22,Página 12,FALSE,TRUE,FALSE,FALSE,uni_curso,varon,Psicología y medicina,Big data,1586360898665
+-M4PXZotyOSfaWiyPCL3,Psicología,38,Acámica - TedX Talks - Art. varios,TRUE,TRUE,FALSE,TRUE,posgrado_completo,mujer,Psicología y medicina,Inteligencia artificial,1586361275686
+-M4PY7FNI6mt51Ge-2aW,Psicología,38,Acámica - TedX Taks - Art. varios,TRUE,TRUE,FALSE,TRUE,posgrado_completo,mujer,Psicología y medicina,Conocimiento,1586361959211
+-M4Pl8NbJGm90q9RP7_l,Ciencias de la Salud,28,NA,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1586365615375
+-M4Q-V4UIKaX5yHM4Rsg,Biología,43,Internet,FALSE,FALSE,FALSE,TRUE,posgrado_completo,mujer,"Física, comput. e ingeniería",Big data,1586369589299
+-M4Q6TpnDmxgCSCoWP0G,Educación,30,"Página 12, ámbito, Télam, clarín",TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1586371373769
+-M4Q8Bl_ud6vYf339lER,Computación e Informática,18,Stack overflow,TRUE,FALSE,TRUE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1586371575905
+-M4QYGVNDymcwvIy34kZ,Psicología,25,"Revistas científicas, Steven Pinker, teoría computacional de la mente.",TRUE,FALSE,TRUE,FALSE,uni_curso,varon,Psicología y medicina,Inteligencia artificial,1586378591004
+-M4QshkOdvab21p23HF-,Ing. Civil,20,Internet,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1586384203804
+-M4QuCAcScC-9xZQIpvk,"Turismo, Eventos y Gastronomía",23,Vorterix,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1586384512009
+-M4Rk4cOQHm7b0PDarQ-,Educación,38,NA,FALSE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1586398921505
+-M4Tqq6G2Skr1b4OIxTC,Sociología y Política,23,Universidad de San Martin,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1586434237067
+-M4UJC5l12tA3E8TzHsO,"Urbanismo, Geografía y Arquitectura",26,"Stack, Reddit, Twitter",TRUE,TRUE,FALSE,TRUE,uni_completo,varon,Sociales y empresariales,Big data,1586441730707
+-M4UPDevOA_BPqPUxjLy,Computación e Informática,25,Youtube,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Ciencia de datos,1586443554051
+-M4Uabiv1313P9-nn070,Educación,31,Universidad,TRUE,TRUE,TRUE,TRUE,posgrado_completo,varon,Sociales y empresariales,Big data,1586446770394
+-M4VqamiGawLCRXqbZfQ,Otras Ingenierías,24,Taringa,TRUE,TRUE,TRUE,TRUE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1586467616855
+-M4X1PJ5I-WZklAzj7B-,Psicología,22,Facebook,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1586487571082
+-M4XHRyShBOXFftOIuLh,Otras Ingenierías,21,NA,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1586491726547
+-M4XVcatjvtyJgVlsPyB,Historia y Antropología,26,Amor y rabia (anarquista),TRUE,TRUE,FALSE,TRUE,posgrado_curso,varon,Humanidades,Inteligencia artificial,1586490546749
+-M4ZxrqG2qNNfSO7MmwO,Ing. del Medio Ambiente,27,El gato y la caja,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1586536695074
+-M4_2tM8u2-z4H6RbRIo,Comunicación y Medios,25,FemHackArg,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1586538208018
+-M4_aDG7_KQD2W0eXLAP,Educación,33,Internet,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1586547262926
+-M4_ydo_7cPCZukHzWO4,Psicología,25,Cursé materia sobre informática educación y sociedad en uba pero no recuerdo el contenido relacionado a big data.,FALSE,FALSE,TRUE,FALSE,posgrado_curso,mujer,Psicología y medicina,Big data,1586553731408
+-M4_zs5FE37U3rhlgo-m,Psicología,28,PubMed,TRUE,FALSE,FALSE,TRUE,posgrado_curso,varon,Psicología y medicina,Big data,1586554045004
+-M4a1JVfdap7afYm1Ag2,Psicología,40,Página 12,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,Psicología y medicina,Big data,1586554449850
+-M4a1dOFddKzsEuVDooS,Psicología,31,www.google.com,FALSE,FALSE,FALSE,TRUE,posgrado_curso,varon,Psicología y medicina,Conocimiento,1586554813814
+-M4a1nIE15MiuN4LbE0K,Otras Ciencias Sociales y empresariales,35,El capital Marx,TRUE,FALSE,FALSE,FALSE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1586554443767
+-M4aDKg_r4yUO_JBbmmE,Psicología,28,NA,FALSE,FALSE,FALSE,FALSE,posgrado_curso,mujer,Psicología y medicina,Big data,1586557875795
+-M4aHhBk8C92dEQocCWh,Psicología,49,"C5n, TN, la nación",FALSE,TRUE,FALSE,FALSE,uni_completo,varon,Psicología y medicina,Big data,1586558753931
+-M4aJjqh6zz6JaydL_q3,Psicología,38,NA,TRUE,FALSE,TRUE,TRUE,uni_completo,mujer,Psicología y medicina,Conocimiento,1586559480476
+-M4bx4C2q3rw8xwnE4qT,Psicología,20,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Conocimiento,1586586864653
+-M4c2Qrtj5zPj18aOy4b,Psicología,30,Clarin,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,Psicología y medicina,Inteligencia artificial,1586588444349
+-M5-vc9hIvjPO6Ayx8gl,Psicología,21,La mayoría de las redes sociales,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,Psicología y medicina,Ciencia de datos,1587005813338
+-M50e6xxUJPXUJZX1G3w,"Turismo, Eventos y Gastronomía",27,Google,TRUE,FALSE,TRUE,TRUE,uni_completo,varon,Sociales y empresariales,Conocimiento,1587018038409
+-M52mHmaCqOfYTvTVFnU,Psicología,21,NA,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1587053805758
+-M52xxqLcyL60fYcPE-P,Psicología,18,Libros,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Ciencia de datos,1587056715180
+-M534Jolbydy8wzpvDVr,Psicología,19,NA,FALSE,FALSE,FALSE,FALSE,uni_curso,varon,Psicología y medicina,Big data,1587058638434
+-M53AyAMgtBqT3jz2612,Psicología,18,Amigos,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1587060401830
+-M53sfA6QIfLGZkYvwVS,Psicología,18,NA,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Conocimiento,1587072252953
+-M5SUkUrSegJJPwm6x5-,"Turismo, Eventos y Gastronomía",34,Grupos de Facebook,FALSE,FALSE,TRUE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1587485113686
+-M5Tl1lBApBD-BoX2J90,Sociología y Política,39,NA,TRUE,FALSE,TRUE,TRUE,posgrado_completo,varon,Sociales y empresariales,Big data,1587506523360
+-M5UXPsFzeCrSCMKTiOW,Lengua y Literatura,39,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Humanidades,Ciencia de datos,1587519398326
+-M5UcRnyTQPmLOBISqqh,Sociología y Política,28,"libros, virtuales y en papel",TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1587520750080
+-M5UdKvc0pFv5LDjNbDb,Comunicación y Medios,36,Infobae perfil minutouno,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1587521205118
+-M5UdM0OARXWrHCQgXu_,Comunicación y Medios,36,Infobae perfil minutouno,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1587521205118
+-M5UdOtuLqJ9nLcn2v-M,Comunicación y Medios,36,Infobae perfil minutouno,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1587521205118
+-M5V3AGxZwThM8aBozNW,Psicología,27,Psicología cognitiva,FALSE,TRUE,TRUE,FALSE,uni_completo,varon,Psicología y medicina,Inteligencia artificial,1587528216279
+-M5Wgd914D78sKJY72vu,Comunicación y Medios,29,Internet,TRUE,TRUE,TRUE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Big data,1587555461962
+-M5XUIJYlLH8iTGBQODq,Otras Ciencias Sociales y empresariales,29,"Apple, Google",FALSE,FALSE,FALSE,TRUE,posgrado_curso,varon,Sociales y empresariales,Inteligencia artificial,1587568687851
+-M5Z06LUW02EYo8a7VVy,Psicología,28,Chequeado,FALSE,TRUE,FALSE,TRUE,uni_curso,varon,Psicología y medicina,Big data,1587594442848
+-M5Z9irX59gOsO85SOux,Educación,43,pajina12,FALSE,FALSE,TRUE,FALSE,uni_completo,varon,Sociales y empresariales,Ciencia de datos,1587596818224
+-M5_odgDfIKACFhM8Il-,Comunicación y Medios,21,NA,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1587624806001
+-M5cQ3AW1Q-s9z2ikHM0,Arte,25,Youtube,TRUE,TRUE,FALSE,TRUE,uni_curso,varon,Humanidades,Inteligencia artificial,1587668392411
+-M5cZaewWnde6ULjs6r7,Comunicación y Medios,25,NA,TRUE,FALSE,TRUE,FALSE,uni_completo,varon,Sociales y empresariales,Ciencia de datos,1587670979437
+-M5cshcl-5RWFcPnqKRd,Matemáticas,38,"Posteo de docentes de Matemáticas, grupos de colegas",FALSE,TRUE,TRUE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Conocimiento,1587675907539
+-M5dfoSqs0IAPY1YICp1,Comunicación y Medios,28,NA,TRUE,TRUE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1587689510682
+-M5gWtdoFsFhqXcV1i74,"Economía, Negocios y Administración",34,Webinars,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1587737015600
+-M5gxUE3YdFAVh2mywii,Arte,33,google,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Humanidades,Big data,1587744507453
+-M5iWVLmEfgMYAzrwsYw,Sociología y Política,33,Facebook,FALSE,TRUE,FALSE,FALSE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1587770682419
+-M5iYu8kWOxKvUaGQ6HI,Filosofía y Religión,33,Youtube,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Humanidades,Conocimiento,1587771294862
+-M5j1X8eXKnXE7aTbTdG,"Turismo, Eventos y Gastronomía",24,Facebook,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1587779419889
+-M5jE-Z80QkdsSZtTKZy,Ing. Eléctrica y de la Información,25,Towards Data Science,TRUE,FALSE,TRUE,TRUE,posgrado_curso,varon,"Física, comput. e ingeniería",Big data,1587782737156
+-M5lI6XjDnLU0EUKD8Bx,Biología,38,Clarin,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1587817200068
+-M5lUcRXQoDg4tAPkHzm,Educación,34,Mi Instituto,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1587820590285
+-M5nokGcTXyIX3EB84Qb,Otras Ciencias Sociales y empresariales,24,General,TRUE,TRUE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1587859568544
+-M5nzqk-P8ofooS5mWGJ,Educación,34,Investigación de SciELO y redalyc,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1587862194196
+-M5oJ8_0KMwGQGQ-pQCB,"Economía, Negocios y Administración",28,"Google, YouTube",TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1587867782525
+-M5tUgJTRTuAWG6gAvX7,Computación e Informática,39,NA,TRUE,FALSE,FALSE,FALSE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1587954896802
+-M5uG7Bj5wWHmH3peUVA,Otras Humanidades,39,NA,TRUE,FALSE,TRUE,FALSE,uni_completo,mujer,Humanidades,Inteligencia artificial,1587967661687
+-M5wGqkAWJAwwvxBy89o,Sociología y Política,27,Twitter,TRUE,TRUE,FALSE,FALSE,posgrado_curso,varon,Sociales y empresariales,Big data,1588001586497
+-M5wX1AfmIiskq2EUOrI,Comunicación y Medios,27,Google académico,FALSE,FALSE,TRUE,FALSE,uni_completo,otro,Sociales y empresariales,Big data,1588005622389
+-M5ynXsyhPg2CFxcBgpz,Educación,33,Internet,FALSE,TRUE,FALSE,FALSE,posgrado_curso,mujer,Sociales y empresariales,Big data,1588043962695
+-M601iQG_FHnQWLWxJNI,Comunicación y Medios,21,el gato y la caja,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1588081127561
+-M60sBlUW7NB3rNTK5HT,Educación,27,NA,TRUE,FALSE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1588095544109
+-M74J5gezg3O9ja87NNc,"Turismo, Eventos y Gastronomía",22,Libros,TRUE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1589226759012
+-M74K7zgg_3Lr91ARnwx,"Turismo, Eventos y Gastronomía",25,Redes,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1589227141211
+-M74KyXvIMCoHkqczew6,"Turismo, Eventos y Gastronomía",22,NA,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1589227420584
+-M74Tcj272dAK7B25mYP,"Turismo, Eventos y Gastronomía",39,diario,FALSE,TRUE,FALSE,FALSE,uni_curso,varon,Sociales y empresariales,Big data,1589229664174
+-M79mxE5pkUdnJTg9Wfe,Sociología y Política,29,Linkedin,TRUE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1589318918364
+-M7B2oihkxOvZ7u4_vtG,Medio ambiente,38,NA,FALSE,TRUE,TRUE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Ciencia de datos,1589340021770
+-M7C2RsadFTrnlndpz_L,"Economía, Negocios y Administración",31,Especialistas,TRUE,FALSE,TRUE,FALSE,posgrado_completo,mujer,Sociales y empresariales,Big data,1589356745261
+-M7CK4ZwOI0zaNF9xlA8,Historia y Antropología,32,Medios de comunicación,TRUE,FALSE,TRUE,FALSE,uni_completo,mujer,Humanidades,Ciencia de datos,1589361402499
+-M7CnrDaD3w62__AtHjd,"Urbanismo, Geografía y Arquitectura",47,Internet,FALSE,FALSE,FALSE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1589369454886
+-M7DXUUllX7xxVfAJxOM,Sociología y Política,27,Facebook,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Ciencia de datos,1589381576888
+-M7DxhKMmdUrPp5ezZEn,Historia y Antropología,26,"Clarín, La Nación",TRUE,TRUE,FALSE,TRUE,uni_curso,varon,Humanidades,Ciencia de datos,1589388746768
+-M7ExPpHWkWfIiUNIhPX,Otras Humanidades,29,Canal encuentro,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Ciencia de datos,1589405440931
+-M7GC-r9_0clU1VmSHX-,Computación e Informática,37,NA,TRUE,FALSE,TRUE,FALSE,posgrado_completo,varon,"Física, comput. e ingeniería",Inteligencia artificial,1589426359683
+-M7GCIgDemtrmBI_oH9q,Educación,36,NA,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Ciencia de datos,1589426454259
+-M7J1bsupWk8MK9mjlN4,Química,30,NA,TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1589473867398
+-M7JCZD_J7kGUKU3_Yvr,Educación,38,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1589476242870
+-M7JmPhXypDTXgnQzG7R,Psicología,36,Google,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Big data,1589486251310
+-M7L0sptMAxfR-8H1f__,Psicología,28,clarin,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1589489345426
+-M7LOnd3ABiIHA8oOGPN,Ciencias de la Salud,24,Fissac,TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Psicología y medicina,Ciencia de datos,1589513258599
+-M7M9SpfDAyFtitageb8,Otras Humanidades,23,Internet,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1589526292253
+-M7NOCQmQXK1JWlpl3ym,Educación,30,Internet,FALSE,FALSE,TRUE,FALSE,posgrado_curso,mujer,Sociales y empresariales,Ciencia de datos,1589546854121
+-M7OrYtgcZdg9EkhavZW,Educación,20,Google,TRUE,TRUE,TRUE,FALSE,uni_curso,varon,Sociales y empresariales,Big data,1589571639903
+-M7PaJRgR_0iiNtJgx67,Otras Naturales y Exactas,18,Youtube,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1589583509445
+-M7QTou1Fi7JHVKooVe5,Otras Médicas y de la Salud,24,YouTube,FALSE,TRUE,FALSE,TRUE,uni_curso,varon,Psicología y medicina,Inteligencia artificial,1589598691479
+-M7QeeMBW5LwDup1jFYn,Biotecnología,38,Cualquier página web,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1589601691908
+-M7TkcZIegd82PnnRIbp,Psicología,40,La nueva mañana de Córdoba,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1589653735394
+-M7VWRKRJ9RDIsukwiM5,Biología,35,"Infobae, TN",FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1589683271210
+-M7VabHMfD7K-3qz7qZw,Educación,38,Google,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1589683770901
+-M7VlLywO0HVwXPP1reZ,Otras Ciencias Sociales y empresariales,24,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1589687583273
+-M7VqzJDHqFpuV2gApuU,Otras Médicas y de la Salud,32,Tn,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1589689068048
+-M7WZow_SW7rJPx4H5YL,Historia y Antropología,32,Libros y charlas con  docentes.,TRUE,FALSE,TRUE,FALSE,uni_curso,varon,Humanidades,Conocimiento,1589700950233
+-M7_aGS7jBQHsugFYefA,Comunicación y Medios,24,NA,TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1589768228688
+-M7efCTT-6V9kSTDrLru,Química,19,Google,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1589853620793
+-M7f8IVYgt494Mu5npHC,Otras Ingenierías,28,Propagandas de cursos de Big data,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1589861495492
+-M7fK3INqAfoTPSc2Xf9,"Economía, Negocios y Administración",23,Google,TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1589864751150
+-M7i1NYVISNV88VCzm0M,Otras Humanidades,30,Televisión,TRUE,TRUE,FALSE,FALSE,uni_completo,varon,Humanidades,Big data,1589906327616
+-M7iRMbYszd2USiZADYg,Otras Ciencias Sociales y empresariales,21,Amigos que estudian sobre el tema,FALSE,TRUE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Big data,1589916560841
+-M7j7ikHFA5J707rWJKm,"Economía, Negocios y Administración",37,Web,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1589928423889
+-M7m4ADwGYqBPZhb6CO7,"Turismo, Eventos y Gastronomía",27,Internet,TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Ciencia de datos,1589977907456
+-M7m_niihL2iWzF4Vdze,Arte,26,Wikipedia,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Conocimiento,1589986514171
+-M7oXXQspTejbmqMgf9j,Derecho,36,Cursos online,TRUE,FALSE,TRUE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1590019186671
+-M7owHzfUkEz15B9nRDS,Educación,37,Clarin,FALSE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1590025927143
+-M7t9-UX80Czh95pfmu5,Sociología y Política,26,TN,TRUE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1590096280409
+-M7uTFrfzCmWBtGFMvR7,Sociología y Política,26,Facebook,TRUE,FALSE,TRUE,TRUE,uni_curso,varon,Sociales y empresariales,Big data,1590118743287
+-M7xrhauwqo0C11_DjEb,Educación,36,Google,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1590175356420
+-M7yQGVYH9xt4Jw0AE3Q,Psicología,39,Universidad Tecnologica Nacional (UTN),TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Inteligencia artificial,1590184764767
+-M7z4In1Jppqwk8SJ9Og,Psicología,50,"La nación, Clarín, página 12,la capital,la voz del interior,el ribuno,la gaceta,los andes,la razón,NYTIMES",TRUE,TRUE,TRUE,FALSE,uni_completo,mujer,Psicología y medicina,Inteligencia artificial,1590195943940
+-M8-AjthWoLIbai0yY45,Arte,38,Canales de Youtube sobre ciencias tutoriales y contenido de internet en general,FALSE,FALSE,FALSE,TRUE,uni_completo,varon,Humanidades,Inteligencia artificial,1590214497211
+-M80VF1jrKOC48ZlLqq6,Lengua y Literatura,36,NA,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Humanidades,Inteligencia artificial,1590236759916
+-M84vUtyVPBKpnBOwmfj,Psicología,34,Varios,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1590310923233
+-M8k5rFgbZkuld-qoXl4,"Economía, Negocios y Administración",36,IES ( soy estudiante de la tecnicatura de ciencias de datos),TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1591018461778
+-M8kBykCTrGkUL_AVXdS,Ciencias de la Salud,40,Internet,TRUE,FALSE,FALSE,FALSE,posgrado_curso,mujer,Psicología y medicina,Big data,1591020183546
+-M8kNBsVW19H-qJq3aJ6,Psicología,38,Facebook,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1591022945114
+-M8kkaZwPDm57tmr3M0N,Sociología y Política,29,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591029225281
+-M8ko1pc4ZScEYkz2fh0,Otras Humanidades,29,NA,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Humanidades,Big data,1591030395279
+-M8l3I75CMWRngwIxuPQ,"Economía, Negocios y Administración",27,El gato y la caja,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1591034659150
+-M8l7u2AWWzRvXeLN0Wq,Otras Naturales y Exactas,32,Wikipedia,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Big data,1591035845142
+-M8lA1JN4l55IBlqjeno,Medicina,33,Coursera,TRUE,FALSE,FALSE,FALSE,posgrado_completo,mujer,Psicología y medicina,Big data,1591036445518
+-M8lAlX1ZPLv1tOUPX0e,Química,28,Diarios independientes,TRUE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1591036607389
+-M8lPZ1UxphdTirh1JaY,Biología,31,Xataka,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,"Física, comput. e ingeniería",Ciencia de datos,1591040358316
+-M8lggAswIRSAd5B718E,Sociología y Política,30,Ns/Nc,TRUE,FALSE,FALSE,FALSE,uni_completo,varon,Sociales y empresariales,Ciencia de datos,1591045234308
+-M8m22eXILCtAm8Xkmjn,Otras Ciencias Sociales y empresariales,29,NA,FALSE,FALSE,TRUE,FALSE,posgrado_curso,mujer,Sociales y empresariales,Ciencia de datos,1591050790510
+-M8mfWFQTVBiHHJ9Uoh1,Computación e Informática,20,Google,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Ciencia de datos,1591061647837
+-M8n3PEbODDgE0qeplK_,Ciencias de la Salud,30,"Cielo, google Académico, notas online",FALSE,TRUE,TRUE,FALSE,posgrado_curso,mujer,Psicología y medicina,Conocimiento,1591068177611
+-M8n8EBzhb_PTHgVNVE1,Arte,21,Google,FALSE,FALSE,FALSE,TRUE,posgrado_curso,mujer,Humanidades,Inteligencia artificial,1591069460448
+-M8nBAAVWahQnRXaT6hF,Derecho,21,Internet,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1591070251373
+-M8nDZE8TE8OHGsDLzvt,Sociología y Política,32,Página 12,FALSE,TRUE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Big data,1591070887915
+-M8nFwolbjBkFTBnODuI,Comunicación y Medios,22,Mi universidad,TRUE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1591071155446
+-M8nouvktrBFAh_xp5jW,Medio ambiente,24,"Conferencias, CLACSO, OTROS NOTICIAS",FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1591080910978
+-M8nwGu4fJCSSJEbWvmx,Otras Humanidades,36,Internet,FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,Humanidades,Conocimiento,1591082650893
+-M8owv7xeIZCb16ac6nJ,Psicología,33,Science,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Big data,1591099801355
+-M8qFzQdpFuSbW0Ab5fn,Computación e Informática,23,NA,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1591121424038
+-M8qx2dG5u1DKpQZVpt2,Comunicación y Medios,28,Revista Fibra,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1591133380620
+-M8rDo1PWL9WAr12eclb,"Economía, Negocios y Administración",23,NA,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1591138105665
+-M8rPZiXQiC5ykzHMOU3,Psicología,23,"Google academico, artículos, libros, youtube",TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Conocimiento,1591141191314
+-M8rSeoE-hu3qI41cOIt,Lengua y Literatura,26,Google,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1591141916137
+-M8rTMCoE87MfsbZ1-FB,Lengua y Literatura,26,Libros,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Humanidades,Inteligencia artificial,1591142173727
+-M8re9yOAXybijbPoLlj,Otras Ciencias Sociales y empresariales,21,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591145179767
+-M8rhP7Tc-j_cCGiQguB,Historia y Antropología,25,Facultad,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Ciencia de datos,1591147088144
+-M8ruzo-ovtFWys3zux7,Educación,37,Sitios web,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1591149624255
+-M8rxkI-JcGFnIFESa-m,Comunicación y Medios,17,"Diarios,redes",TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1591150463141
+-M8sFJKs9ZPMNJVgqb_u,Sociología y Política,35,Sitios web,TRUE,FALSE,FALSE,FALSE,uni_completo,varon,Sociales y empresariales,Ciencia de datos,1591155266022
+-M8uHmwbICaHfKm1bDuG,Computación e Informática,20,NA,FALSE,TRUE,TRUE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1591189467670
+-M8uZIh7v0kN8doX-Ocn,Psicología,21,Twitter,TRUE,TRUE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1591194100130
+-M8v_LabYMJ1vpxMg9cx,Otras Ingenierías,26,Technology Review MIT,TRUE,FALSE,FALSE,FALSE,uni_completo,varon,"Física, comput. e ingeniería",Inteligencia artificial,1591211105077
+-M8w34TI2RTjfBesAUU2,Química,40,"Página 12, feminacida",FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,"Física, comput. e ingeniería",Ciencia de datos,1591219094473
+-M8wR5o-n3dNpOWPYMkj,Educación,21,"Clarín, Infobae, la nación y Google",FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591225517803
+-M8wWzTqNwDZUbdaBoLD,Biología,25,"Clarin,medios audiovisuales",FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Ciencia de datos,1591226403228
+-M8wXK86KmluD4HigccX,Biología,25,NA,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1591227193323
+-M8wY08Z9Uv8vTXCoAUh,Educación,38,World economic forum,FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1591227386738
+-M8xGlp679KKe71_cAwx,Otras Ciencias Sociales y empresariales,35,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591239498685
+-M8xLm6N6StAel-mAbJM,Ing. Química,31,NA,FALSE,FALSE,FALSE,FALSE,posgrado_curso,mujer,"Física, comput. e ingeniería",Big data,1591240928085
+-M8zLQqtQIyhASnI4gXi,Derecho,21,Internet en generam,FALSE,TRUE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Big data,1591274330785
+-M8zvqlDfBmx2lqo6l4h,Otras Humanidades,29,Redes,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1591284208006
+-M9-NSakIfzM-p_HRKLV,Computación e Informática,32,Medium,TRUE,FALSE,TRUE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1591291675976
+-M9-RwYyG_zIEwVLGkAz,Comunicación y Medios,23,Mi hermano,FALSE,FALSE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591292698661
+-M9-Y4Oc69RDIXhZ_biF,Comunicación y Medios,25,NA,FALSE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1591294376737
+-M9-ZJ7-HIQPqdpA_QXp,Otras Médicas y de la Salud,23,Facultad,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1591294621070
+-M9-hKCsT3NadlNn5y5i,Matemáticas,40,Unc,FALSE,FALSE,TRUE,FALSE,posgrado_curso,mujer,"Física, comput. e ingeniería",Big data,1591297151822
+-M9-optwC39Bk_baa0SL,Sociología y Política,40,Fucoult,FALSE,FALSE,TRUE,FALSE,posgrado_completo,mujer,Sociales y empresariales,Ciencia de datos,1591299035682
+-M9-pqiKL__J2MzXid2J,Derecho,35,"Conferencias de IG, cátedras virtuales de universidades",TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1591299264140
+-M9-q4CdzKmkxwjQ27Ro,Sociología y Política,26,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,varon,Sociales y empresariales,Big data,1591299399157
+-M906J5AoaweaWRDWMCp,Comunicación y Medios,24,Universidad,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1591303947112
+-M90EETwVmcgHX08Syvd,Otras Naturales y Exactas,27,"Search data center, Forbes, diarios en general, máster big data, campus big data",TRUE,TRUE,FALSE,TRUE,posgrado_curso,mujer,"Física, comput. e ingeniería",Big data,1591305950974
+-M90rxj2pJ7NiD2CTzq-,Ciencias de la Salud,24,NA,TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Psicología y medicina,Conocimiento,1591316475461
+-M9111neup8p37KU2IZQ,Comunicación y Medios,30,NA,FALSE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1591319019325
+-M9153SL_gfvUEwZ_DEw,Psicología,33,Diarios varios,FALSE,TRUE,FALSE,FALSE,posgrado_completo,mujer,Psicología y medicina,Big data,1591320349908
+-M915jTNhtuxZTBqd2CD,Matemáticas,22,Clarín,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1591320378709
+-M91641gzEgqSB_4qsu3,Otras Humanidades,36,Vurtual,TRUE,FALSE,TRUE,FALSE,uni_completo,mujer,Humanidades,Ciencia de datos,1591320575839
+-M91FmqtGhjoFqxi1vuu,Computación e Informática,28,"Clarín, Google en general, perfiles de face e insta sobre tecnología e innovación",TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1591323142310
+-M91U8-hDHC13IqE7vnv,Historia y Antropología,31,"IT USER, Infobae, Stark Overflow",FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Humanidades,Ciencia de datos,1591326508873
+-M91XmBFXV4swIxospjI,Ciencias de la Salud,35,NA,FALSE,FALSE,FALSE,TRUE,posgrado_curso,mujer,Psicología y medicina,Ciencia de datos,1591327772096
+-M91oUSnjYz4Xd9pfYli,Ing. Química,30,"Internet , google, wikipedia",TRUE,FALSE,FALSE,FALSE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1591332552142
+-M91xRujFlrevhyoAqN3,Otras Humanidades,27,NA,TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Humanidades,Big data,1591334763859
+-M93Ik8w6W_dCmG6nshr,Otras Ciencias Sociales y empresariales,26,NA,FALSE,TRUE,FALSE,TRUE,uni_completo,varon,Sociales y empresariales,Big data,1591357347147
+-M93POzzSgSVEZuNWvmr,"Economía, Negocios y Administración",35,NA,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591358697007
+-M944wYW91C0jem2qwdT,Arte,21,Youtube y Netflix,FALSE,TRUE,FALSE,FALSE,uni_curso,varon,Humanidades,Big data,1591370696122
+-M94IamQ5ldVb0l0Rtrd,Comunicación y Medios,39,Investigaciones académico,TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1591374184214
+-M94MS0N2LgxSyo7YKWN,"Turismo, Eventos y Gastronomía",29,"Congresos y convenciones de universidades, Clarin, Google (noticias seleccionadas), blogs de investigaciones",TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1591374697284
+-M94Osr2e-yQV8j9BtUf,Comunicación y Medios,26,"Infotecnology, redes sociales",FALSE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1591375820043
+-M94gBLGjCsunFmrUSu_,"Economía, Negocios y Administración",37,Twitter,FALSE,FALSE,TRUE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Big data,1591380669550
+-M94hJn0_DLXD_CrOdcu,"Economía, Negocios y Administración",37,Twitter,FALSE,FALSE,TRUE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591380863092
+-M94kcd13Zzz_EDNKy4y,Psicología,27,NA,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Conocimiento,1591381807621
+-M9597kmiUK74myqKh2P,Sociología y Política,19,No tengo una fuente específica,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1591388411714
+-M95DFBWagwPFiqQwIPO,Educación,21,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1591389654972
+-M95Rwwbri8WrXLxj5XF,Ing. Civil,26,Facebook,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1591393455207
+-M95gwDvFL1aLzrsGHSA,Sociología y Política,38,Infotechnology,TRUE,TRUE,FALSE,TRUE,posgrado_completo,mujer,Sociales y empresariales,Ciencia de datos,1591397633698
+-M95hQ-GJUGOTMHbM22k,Otras Ciencias Sociales y empresariales,34,Posteos de Facebook,FALSE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1591397415509
+-M95i-_Ay1hDy_Ea4XLc,Computación e Informática,36,NA,FALSE,FALSE,FALSE,FALSE,uni_completo,varon,"Física, comput. e ingeniería",Inteligencia artificial,1591397951505
+-M95x9vN6582CjGZb63e,Psicología,23,Google,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1591401966201
+-M96-5sjAB1L3BiIOha5,Otras Humanidades,25,"Redes sociales, revista sudestada, página 12, Mu",FALSE,FALSE,FALSE,TRUE,posgrado_curso,mujer,Humanidades,Big data,1591401960951
+-M960B_gmcQ_HAh03mu2,"Economía, Negocios y Administración",20,Trabajo,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1591402952559
+-M96R3K8rJ6iQmSyJ3IM,Sociología y Política,23,NA,TRUE,TRUE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1591409965747
+-M96keOJPftm0urH7eUp,Educación,35,NA,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1591415442617
+-M973eBgFPcjKRLX_3BM,Comunicación y Medios,36,Xataka,FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1591420442244
+-M98y38g85yB4Vi094kx,Otras Médicas y de la Salud,29,Posteos en Redes,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Big data,1591452470348
+-M98zFWpozyoM73aVMbD,Psicología,22,NA,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,Psicología y medicina,Inteligencia artificial,1591452821988
+-M99R_PVrFtM5vlQXWdl,Lengua y Literatura,27,Mis amigos ingenieros,TRUE,TRUE,FALSE,TRUE,uni_curso,otro,Humanidades,Big data,1591460476132
+-M99nDRmo0UF6UF8Az3a,Medicina,22,MacBook,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1591466364383
+-M9A-fMDdye-0gA2GWhI,Otras Ciencias Sociales y empresariales,34,Universidad,FALSE,FALSE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Ciencia de datos,1591469699283
+-M9A3dmaceFmggSEJFtv,"Economía, Negocios y Administración",23,google,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591470853556
+-M9A4D1YZmmvtUkeHsFJ,"Economía, Negocios y Administración",23,NA,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1591471158984
+-M9AaILazmUpfC6T_LnY,Matemáticas,22,NA,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1591479875340
+-M9B0x6zx2frCUP1cOOV,Arte,40,Stack Overflow,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Humanidades,Inteligencia artificial,1591486788580
+-M9B5kjwS61OsoEKoOxO,"Economía, Negocios y Administración",29,NA,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1591488288021
+-M9BCQLt6Ei9mKor6ZoN,Otras Ciencias Sociales y empresariales,32,Isfi,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1591489986413
+-M9BHHZtQh8bW8rhrxnV,Lengua y Literatura,30,"No siempre consumo los medios, no tengo una referencia.",FALSE,TRUE,FALSE,TRUE,uni_completo,varon,Humanidades,Ciencia de datos,1591490796299
+-M9BHy0BVkuUd4WgCIUw,Lengua y Literatura,30,"Fuentes varias, no hay una principal.",FALSE,TRUE,TRUE,TRUE,uni_completo,varon,Humanidades,Conocimiento,1591491514489
+-M9BI1StQ8LGZRr391NM,Física,30,NA,TRUE,FALSE,FALSE,FALSE,uni_completo,otro,"Física, comput. e ingeniería",Inteligencia artificial,1591491572858
+-M9BIymT2ozqK0F_HAyd,Otras Ciencias Sociales y empresariales,22,NA,FALSE,FALSE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1591491523995
+-M9BKedTYGG1PKRicRnv,Psicología,26,Facebook,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1591492191749
+-M9BnQi-0PgH6FOdyVaH,Sociología y Política,26,Grupo de amigues,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591499986076
+-M9BrQsf6wjUvhrMyPa-,Matemáticas,31,YouTube,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1591500918975
+-M9C8yLrZR3FDGy5HL2r,Derecho,27,NA,TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1591505746256
+-M9CYlNcyNBvC5Z2_fcn,Psicología,29,NA,FALSE,FALSE,FALSE,FALSE,uni_completo,mujer,Psicología y medicina,Big data,1591512772382
+-M9E8gmxN_yG_ULCW0S0,Comunicación y Medios,40,clientes,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1591539175664
+-M9EO0e_Q3M4MCHaMy1c,Biología,29,Twitter,TRUE,FALSE,TRUE,TRUE,posgrado_curso,mujer,"Física, comput. e ingeniería",Ciencia de datos,1591543440550
+-M9EWwaFeg9LBgl92-d8,Otras Humanidades,20,Amigos que estudian software y programacion,FALSE,FALSE,FALSE,FALSE,uni_completo,mujer,Humanidades,Inteligencia artificial,1591545770534
+-M9EXSkfYgbBkB6bxg7V,Otras Ciencias Sociales y empresariales,26,Ninguno en específico. No me informo sobre el tema,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591545800549
+-M9Ep-enJqhJlq9KqFb8,Educación,31,"Perfil, Ambito",FALSE,TRUE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1591550625449
+-M9FJc5oq3wkoSf3tMeR,Psicología,26,NA,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1591558997007
+-M9FiEZdj-cr7fnwPpsC,Sociología y Política,36,NA,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1591565710582
+-M9GBxdGZWSrDeKo1rQ9,Psicología,25,Internet,TRUE,TRUE,FALSE,FALSE,posgrado_curso,mujer,Psicología y medicina,Big data,1591573805170
+-M9GCEqL5nEnaln75HqC,Psicología,25,Internet,TRUE,TRUE,TRUE,TRUE,posgrado_curso,mujer,Psicología y medicina,Conocimiento,1591574003568
+-M9GRVyeExciSeN6GdBj,Sociología y Política,22,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591577895717
+-M9GqDkPnPRS7bfDFjhi,Otras Humanidades,19,Páginas al azar encontradas en las recomendaciones de noticias de Chrome,FALSE,TRUE,FALSE,FALSE,uni_curso,otro,Humanidades,Ciencia de datos,1591584613129
+-M9H2eojmdGPTW-Ae22x,Otras Ciencias Sociales y empresariales,21,NA,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1591588205599
+-M9H38o-60GFhK2j-kZq,Otras Ciencias Sociales y empresariales,21,NA,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1591588337654
+-M9IVj2bLFYgLX54AGya,Sociología y Política,22,La web en general,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1591612586391
+-M9J1ssfTSBAt_2bUx9z,Arte,30,TN noticias,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1591621343606
+-M9J2S7bG1MLAXg9zZ5L,Arte,30,IBM,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Big data,1591621694073
+-M9JITBzSs6evKE5hC-l,Otras Ciencias Sociales y empresariales,30,Cámaras específicas de lo buscado. Página argentina.gob. Referencias de material bibliografico de la carrera.,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1591625784144
+-M9JL3Zf1JSkgVqeYSGH,Ing. Química,25,NA,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1591626481546
+-M9JL7H40q-ix2XYz1AG,Ing. Química,27,Páginas facebook,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1591626563972
+-M9JN7xfG3zaAyG6fJB1,Matemáticas,24,Material de postgrado,TRUE,TRUE,TRUE,TRUE,posgrado_curso,mujer,"Física, comput. e ingeniería",Big data,1591626978346
+-M9Jhtr7PZhf8u657mwP,Computación e Informática,29,Diarios,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1591632829465
+-M9KGZz9Ev3Fw9pESmV8,Educación,24,NA,FALSE,FALSE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1591642121642
+-M9KH7hg2DRbxopdU9uX,Educación,24,Anuncios,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591642318174
+-M9KWIKYfADmr-yPUb6N,Historia y Antropología,32,NA,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1591646175924
+-M9KnSQurkRx9MBn0NG-,Otras Ingenierías,31,Edx,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1591650948704
+-M9LbxnlRFTxvFgQGqBc,Otras Ciencias Sociales y empresariales,22,"La nacion, Discovery chanel, telefe jaja",TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591664455124
+-M9LeLLEMuhEp6RtvS1e,Otras Ingenierías,21,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1591665492211
+-M9NrcHOP_XCInUYhXPx,Otras Ciencias Sociales y empresariales,24,Digital house,FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Ciencia de datos,1591702503677
+-M9NueC2e3H_oQxUZR6x,Medio ambiente,33,Facebook,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Ciencia de datos,1591703051606
+-M9O3ozw7PmJkiRsQReK,Sociología y Política,34,Curso comunicación política digital,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1591705873580
+-M9OIV5nFgFaAEEzkr-f,Otras Humanidades,40,"RT, Wired",FALSE,TRUE,TRUE,TRUE,uni_completo,varon,Humanidades,Big data,1591709685523
+-M9OMfjG-MEX7PZ7FKPZ,Otras Ciencias Sociales y empresariales,23,NA,FALSE,TRUE,TRUE,FALSE,posgrado_curso,mujer,Sociales y empresariales,Big data,1591710917432
+-M9P8cEyiTKn1oVHRZgj,Química,21,Universidad de Málaga,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1591723411331
+-M9PCFIA2SK6NYpI1YqT,Otras Ciencias Sociales y empresariales,23,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1591724913290
+-M9PJrGJKTSP7OS_lXDV,Medicina,19,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1591726910523
+-M9PRvoYlkBdwLYrx2e_,Comunicación y Medios,25,"MasScience, BBC,",TRUE,TRUE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591728400130
+-M9QE6KTmEE9p-e3QXHC,Computación e Informática,39,"Github, Stack Overflow",FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1591742019305
+-M9QXH21QPvGVw701pUq,Lengua y Literatura,20,NA,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Humanidades,Conocimiento,1591747030535
+-M9QeCwpZuHehoplohmr,"Economía, Negocios y Administración",29,Curso de Thurn y NG,FALSE,TRUE,FALSE,TRUE,uni_completo,otro,Sociales y empresariales,Inteligencia artificial,1591749667126
+-M9Qf1k4_L4Yd01_Y4ai,Educación,19,Sitios web de Internet,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1591749437481
+-M9Qfim_m64rR6shkBTw,Educación,19,Sitios web,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1591749674822
+-M9R1ddKDnwurYNBJyaM,"Economía, Negocios y Administración",26,"Infobae, La Nación, Clarín, C5N, Crónica",FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1591755655782
+-M9RALdfQgb042OUIUuf,Comunicación y Medios,30,NA,TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1591757622980
+-M9RK7oRmnhZsy280u5Y,"Turismo, Eventos y Gastronomía",26,"Me entere de este nuevo sistema por mi profe German Herrera de la materia""Analisis economicos de los mercados turisticos"" de la carrera Licenciatura en Turismo",FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1591760394890
+-M9S0lo0Ll60FI_v1roX,Lengua y Literatura,18,Nada,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Humanidades,Big data,1591772160269
+-M9S5ykM1oVw0MVUF6s-,Arte,37,NA,FALSE,TRUE,FALSE,TRUE,posgrado_curso,otro,Humanidades,Ciencia de datos,1591773632079
+-M9SGUQF-nnnc8VBAvEQ,Matemáticas,24,El Tribuno,FALSE,FALSE,TRUE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Ciencia de datos,1591775920012
+-M9SvBsG9psHw7A1nUmS,Otras Humanidades,31,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Humanidades,Conocimiento,1591787225393
+-M9TX6P0u_6GVcQfz_ai,Educación,22,NA,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1591797247627
+-M9Tzkto-oWxJLNE-0BD,Comunicación y Medios,29,Textos académicos,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1591805105296
+-M9UIetRkxSPvL0RnpPd,Sociología y Política,32,Ministerios,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1591810405029
+-M9UPWfhWsEnHbOgssvH,Psicología,35,0221,FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1591812256899
+-M9UnyBP_fIDBDCXAT29,Educación,38,Infobae pagina12 abc,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1591818907541
+-M9Uz9HOiWfTVDyBx7I7,Ing. Eléctrica y de la Información,27,NA,TRUE,FALSE,TRUE,TRUE,uni_completo,varon,"Física, comput. e ingeniería",Inteligencia artificial,1591821845629
+-M9VfydKeIrAH2myA3oV,Psicología,29,"Clarín, PsyCiencia",FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Inteligencia artificial,1591833224030
+-M9VnOxy1vMHrL8Gzyhz,Ing. Química,19,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1591835524680
+-M9Vq68asFdI-Ys_aRyj,Computación e Informática,32,"No hay una principal, es  diverso",TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1591835743323
+-M9WCQ9ukH4aT7M06Dc-,Psicología,31,Googleo,TRUE,FALSE,FALSE,FALSE,uni_curso,varon,Psicología y medicina,Ciencia de datos,1591842329584
+-M9WGG4v9N1cvwC3ThsY,Lengua y Literatura,35,wikipedia,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1591843073375
+-M9WGd1GBwvXyXkw7B-b,Otras Ciencias Sociales y empresariales,36,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1591843464849
+-M9WNG8Up41wap7orj47,Otras Ciencias Sociales y empresariales,27,Youtube,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1591845211341
+-M9WNOC5QR71VdppPym7,Arte,25,NA,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1591845255711
+-M9WO4jDYdki02VpANnC,Otras Ciencias Sociales y empresariales,20,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1591845416955
+-M9WOiBb4U5IXdnqiGB8,Otras Ciencias Sociales y empresariales,25,NA,TRUE,FALSE,FALSE,FALSE,uni_curso,varon,Sociales y empresariales,Big data,1591845622061
+-M9WeXwoKiVw3aRAG9_O,Ciencias de la Salud,28,"Lilacs, Ramón Carrillo , Byung Chul-Can",TRUE,TRUE,TRUE,FALSE,uni_curso,varon,Psicología y medicina,Big data,1591849704226
+-M9YPEZQ-ttuxXhJGs5f,Arte,27,Carrera universitaria de Artes Digitales (UNQ),FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Humanidades,Big data,1591879310532
+-M9Z64DJaMWx8MaHNt6y,Derecho,34,Google,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1591890719238
+-M9Zd4cdayURTwJGZqiZ,Medicina,21,"UNC,",FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1591900013202
+-M9ZgbMRUoTXemH2Ozap,Biología,31,Instagram,TRUE,FALSE,TRUE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Conocimiento,1591900914663
+-M9ZnyLUhv93_A51aj9v,Otras Médicas y de la Salud,26,Facebook,FALSE,TRUE,FALSE,TRUE,posgrado_curso,varon,Psicología y medicina,Big data,1591902810306
+-M9ZqDt9Fyu2PmYVDeXg,Derecho,34,Análisis propio,TRUE,FALSE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Ciencia de datos,1591903276199
+-M9_-uaDD0pyk4gmPDbe,Psicología,26,YouTube,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Big data,1591906146911
+-M9aPYmq3AHQO7p_IPEO,Educación,36,NA,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1591929332428
+-M9bPEajqZ48NB8XfdgH,Lengua y Literatura,31,Facebook,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1591946297838
+-M9bPoiiLoLSzMU41IRv,Lengua y Literatura,31,Facebook,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Humanidades,Conocimiento,1591946584452
+-M9czmwIOgkbjN6KWFvw,Otras Humanidades,32,https://www.salesforce.com/mx/blog/2017/6/Que-es-la-inteligencia-artificial.html,TRUE,FALSE,FALSE,TRUE,uni_completo,varon,Humanidades,Inteligencia artificial,1591972463156
+-M9dEH-vVqDcIVmp6kUS,Otras Humanidades,31,Redes sociales,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Humanidades,Ciencia de datos,1591977033882
+-M9dEs9nsP-jPp_T037c,Historia y Antropología,22,ninguna no me interesa,FALSE,FALSE,FALSE,FALSE,posgrado_completo,otro,Humanidades,Inteligencia artificial,1591977091147
+-M9eJbiud3d8UgZSkLQX,Comunicación y Medios,21,"página 12, anfibia",FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1591995185040
+-M9eMLYoPJpwaiF28JpH,Otras Naturales y Exactas,24,pub med,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,"Física, comput. e ingeniería",Big data,1591996020924
+-M9fIfZbxBQuf_C9ykdU,Otras Humanidades,32,Byung chul Han,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,Humanidades,Big data,1592011468405
+-M9fe1y2pfJPMNDavqwX,Computación e Informática,33,Web en gral. Varios sitios argentinos y extranjeros.,TRUE,TRUE,TRUE,TRUE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1592017660156
+-M9ffUSfoDKgHn7g4VHI,Computación e Informática,29,"Ingeniera Informática, curso de machine learning Udemy",FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,"Física, comput. e ingeniería",Big data,1592018033799
+-M9fxKF9aXpaA_3TwrCq,Física,25,NA,TRUE,TRUE,FALSE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1592022546822
+-M9gEVSI0qjc5HlzRTzN,Psicología,24,NA,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,Psicología y medicina,Big data,1592027351166
+-M9im7X_vwdllY2L2qcW,Otras Humanidades,28,NA,TRUE,FALSE,TRUE,FALSE,uni_curso,mujer,Humanidades,Big data,1592070170666
+-M9ipXxztYY1ekXCvYkL,"Economía, Negocios y Administración",31,NA,TRUE,TRUE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1592071057401
+-M9irLm5XTlQdJBcZuEM,Otras Humanidades,25,NA,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Conocimiento,1592071397054
+-M9jzWsAd2xEm3dEI2X2,Comunicación y Medios,31,NA,TRUE,FALSE,FALSE,FALSE,uni_completo,varon,Sociales y empresariales,Ciencia de datos,1592090380939
+-M9jzjOvfhhnc1HQUw-K,Psicología,24,Psicologia del trabajo,TRUE,FALSE,TRUE,TRUE,uni_completo,mujer,Psicología y medicina,Big data,1592090351148
+-M9k2eP8KzP_ug5AEgi2,Otras Ciencias Sociales y empresariales,20,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1592091349887
+-M9k3S17qLMYq8NEqhGd,Computación e Informática,36,"Trabajo, vida misma.",FALSE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1592089158776
+-M9k6fFUsDBZCdDiH8_B,Otras Ciencias Sociales y empresariales,21,"Diarios Clarín, la nación.  Programas como natgeo, discovey, history channel...",FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1592092455804
+-M9kWJhx1QdfUl0Z-QDi,Educación,29,Redes sociales,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1592099185528
+-M9ktACuVC6ei8uX0_QT,Ing. Eléctrica y de la Información,18,Instagram,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1592105556292
+-M9kuexphs2s83feSRIf,Derecho,18,internet,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1592105894054
+-M9kwLsTDj3bEl-hqiQc,Sociología y Política,24,"Internet, documentales",TRUE,FALSE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Ciencia de datos,1592106230219
+-M9mWirV6vPcrexA2Ws_,Otras Humanidades,23,Internet publicaciones,FALSE,TRUE,TRUE,FALSE,uni_curso,otro,Humanidades,Big data,1592132793405
+-M9mv5al3ugA2X9zMdXJ,Física,27,NA,TRUE,FALSE,TRUE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1592139406584
+-M9ncoUfpibixvKmR79n,"Turismo, Eventos y Gastronomía",19,NA,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1592151411888
+-M9nqYSkZakrx3Y3WN9S,Otras Ciencias Sociales y empresariales,27,A través de los docentes de grado en mi formación universitaria,FALSE,FALSE,TRUE,FALSE,posgrado_curso,mujer,Sociales y empresariales,Big data,1592154894123
+-M9nzc4vnb7gkyGluTy9,Otras Humanidades,18,NA,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1592157539399
+-M9o6jO-Vw1_VlgYy2N8,Derecho,35,"infobae, colegio de abogados, stack",FALSE,TRUE,TRUE,TRUE,posgrado_completo,mujer,Sociales y empresariales,Inteligencia artificial,1592159276116
+-M9oz-MO85UdUcnbKzNX,Otras Humanidades,25,Instagram,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1592174092035
+-M9qLboEZV36oJ_TyVTW,Otras Ciencias Sociales y empresariales,29,LaNacion,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1592197068581
+-M9wcXm0RJpx_JvCsxmp,Arte,37,NA,TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Humanidades,Big data,1592302371515
+-M9xAGaDw1xM6v0AO8bs,Otras Naturales y Exactas,28,NA,TRUE,FALSE,TRUE,FALSE,uni_completo,varon,"Física, comput. e ingeniería",Conocimiento,1592311553923
+-M9xMDhgcbyfZt_0h02j,"Economía, Negocios y Administración",22,"Google, twitter",FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1592314537085
+-M9xUtvCz1CO-fhWhxcW,Otras Humanidades,27,Twitter,FALSE,TRUE,TRUE,FALSE,uni_completo,mujer,Humanidades,Big data,1592317001324
+-M9xnMLTMEv_srwqagS7,"Turismo, Eventos y Gastronomía",22,Google,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1592322082687
+-M9yGKA-GqhG64CTe52x,Comunicación y Medios,32,Sitios en Internet. Textos académicos,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1592329904290
+-M9yfqavlSJSIDt5M2fM,Derecho,33,Internet,TRUE,TRUE,TRUE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1592336901724
+-MA-XwPHD0uiTdykSzAa,Lengua y Literatura,30,Anfibia,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Conocimiento,1592368114803
+-MA-hA3Hxmabxz2VRe3c,Psicología,25,NA,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1592370708605
+-MA0KkyZtLDibZCMfSQt,Biotecnología,32,NA,FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1592381315926
+-MA1arCkhDKQ7xMOcfaj,"Economía, Negocios y Administración",29,Estudie Contabilidad,FALSE,TRUE,FALSE,FALSE,uni_completo,varon,Sociales y empresariales,Inteligencia artificial,1592403160328
+-MA1jGfKPxAs00IYpeJ8,Medicina,26,"the time, sciense, clarin",FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1592404835374
+-MA1lb7yaEsRL6pfJQIU,Otras Humanidades,21,NA,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Humanidades,Big data,1592404466561
+-MA1ofWJV23GYP3n_6CD,Psicología,26,NA,TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1592406292147
+-MA2sisq3Q0zUncprTLQ,Física,25,Material de estudio,TRUE,TRUE,TRUE,TRUE,posgrado_curso,varon,"Física, comput. e ingeniería",Big data,1592423899322
+-MA33IVgwNuZK_31egI9,Otras Ingenierías,26,Plataforma arquitectura,TRUE,FALSE,TRUE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Conocimiento,1592427100390
+-MA3LfWNVmHbg8_6ikVe,"Economía, Negocios y Administración",23,La Nación...pag 12,FALSE,TRUE,TRUE,TRUE,posgrado_completo,mujer,Sociales y empresariales,Conocimiento,1592431708686
+-MA3n8HEVI12lqBe-nMK,Lengua y Literatura,26,Documental,TRUE,FALSE,TRUE,TRUE,uni_completo,varon,Humanidades,Big data,1592439417358
+-MA3nVhHJn6WypIhZDvx,Lengua y Literatura,26,Walter Benjamín,FALSE,FALSE,TRUE,FALSE,uni_completo,varon,Humanidades,Conocimiento,1592439648376
+-MA4WaBx30V6BCJ1r8h3,Psicología,20,pagina 12,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1592451678547
+-MA4YbfnliAzhenhPQ2L,Física,30,Sitios web en general,FALSE,TRUE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1592452157928
+-MA5Xz0DhKQ9W9W11_QN,Otras Humanidades,36,Redes sociales tv,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Humanidades,Inteligencia artificial,1592468681242
+-MA5drRLHu9kKkVh87Ul,Sociología y Política,22,Papers con big data como metodo de recoleccion dd datos,TRUE,FALSE,TRUE,FALSE,uni_completo,varon,Sociales y empresariales,Big data,1592470542589
+-MA6F16-Wo1BfNAWEpsy,Biología,27,"Facebook, artículos periodísticos",FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1592480521117
+-MA6YvU4jf-qKST7p-FJ,Educación,25,YouTube,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1592485646754
+-MA6mx_316uOHOgOX_Vq,Comunicación y Medios,21,Redes y blogs,FALSE,FALSE,TRUE,FALSE,uni_curso,varon,Sociales y empresariales,Big data,1592489768323
+-MA6nmKBZqCOCsdppkTq,Psicología,26,NA,FALSE,TRUE,FALSE,TRUE,posgrado_curso,mujer,Psicología y medicina,Inteligencia artificial,1592489993259
+-MA6ntXunepRS-LEXD9_,Otras Humanidades,28,Página 12 Facebook,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1592489870450
+-MA6xOPVFeWk-2iEI5Ut,Comunicación y Medios,59,webs- instagran- pagina 12,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1592492237582
+-MA70VKIgLgubMjydnp3,"Economía, Negocios y Administración",27,"Internet, capacitaciones, cursos, conferencias",TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1592493546847
+-MA7I6EGVB6HX0WdjOD3,Sociología y Política,23,NA,TRUE,TRUE,TRUE,FALSE,uni_curso,varon,Sociales y empresariales,Big data,1592497991224
+-MA7ZY4NFU1XEhDm8VsB,"Economía, Negocios y Administración",20,NA,TRUE,FALSE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1592502849264
+-MA84bdjTbDNYpW4rVrn,Química,25,Google,FALSE,FALSE,FALSE,TRUE,posgrado_curso,mujer,"Física, comput. e ingeniería",Big data,1592511305806
+-MA8qSWdgpa3-jSLJoOC,Psicología,38,Páginas web educativas,TRUE,FALSE,TRUE,FALSE,uni_completo,mujer,Psicología y medicina,Conocimiento,1592524244583
+-MA8x4IOSEg6ORkMRQcc,Computación e Informática,20,NA,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Ciencia de datos,1592525941948
+-MA9Ls5s9ZqRh2ad_xRS,Otras Médicas y de la Salud,31,Byung-Chul Han,FALSE,FALSE,TRUE,FALSE,posgrado_curso,mujer,Psicología y medicina,Big data,1592532637594
+-MA9Ncy2JAxQ25OmA4ps,Comunicación y Medios,38,lugar de trabajo IBM,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1592533114279
+-MA9_yCN36L-D8pHC7UA,Ing. Civil,31,NA,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Conocimiento,1592536659396
+-MAAIV1cF-XPgeEwsb0E,Educación,33,"Grupos de redes sociales orientados a mi carrera. C5n, telefe, diario registrado,",FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Conocimiento,1592548568276
+-MAAiyPAClAly3_absBk,Computación e Informática,20,NA,TRUE,TRUE,TRUE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Conocimiento,1592555823958
+-MABOXHVgy_6UN7qio-K,Educación,24,Facebook,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Conocimiento,1592566755735
+-MACbOjTBFOUnOTnD_p5,Sociología y Política,57,NA,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1592586875572
+-MACmFMBTr80K0H9xc8b,Otras Humanidades,21,Eduardo Sosa Escudero. MKT Editorial. María Nanton.,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Humanidades,Ciencia de datos,1592590194523
+-MH3YRdLAvMcdgwwJrBV,Computación e Informática,32,Sitios varios internet,FALSE,FALSE,TRUE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1599951452211
+-MH3ZgbzWw7N5CRf4Zb1,Computación e Informática,35,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1599951809333
+-MH8d5tcMhm50fRDcXrD,Psicología,27,"infobae,clarìn, la naciòn, crònica,noticieros,",FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1600036731342
+-MHJlrA1dB1lEQ2dtLwy,Psicología,40,A24 noticias,FALSE,TRUE,FALSE,TRUE,uni_curso,varon,Psicología y medicina,Big data,1600223540695
+-MHf_wjkURbit7qvimF0,Psicología,37,"Libros, enlaces, plataforma",FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Conocimiento,1600605917886
+-MHfaClQ5p9MWSBv-aa8,Ing. Eléctrica y de la Información,37,Infobae,FALSE,TRUE,FALSE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Ciencia de datos,1600606083677
+-MHvawm4Gby6HjQPqhIF,Psicología,49,google,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1600874939353
+-MHwq39ljl8yTbFIUCAt,Psicología,40,Stack overflow,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1600895878274
+-MI-DBiVXnjO1_xyIqe5,Psicología,34,Libros académicos,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1600952550353
+-MI1JY5Fv875spg3fd4S,Otras Humanidades,51,NA,TRUE,FALSE,TRUE,TRUE,uni_curso,mujer,Humanidades,Conocimiento,1600985945152
+-MI1Ua2LKwQkRp6L_KL4,Psicología,42,textos de sociologia,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1600990665222
+-MISOjR8AykfHLjmjIXV,Psicología,29,"muy interesante,telesur tecnologia",TRUE,FALSE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1601441797956
+-MIa5AlkuV8fI-MXTLQZ,Psicología,29,"muy interesante,telesur tecnologia",TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1601588112472
+-MJiTO5NAjveOIB6uc7G,Psicología,18,google,TRUE,FALSE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Big data,1602802218574
+-MK2WT8Mk7xsL3yN4DJn,Educación,54,Wikipedia,FALSE,FALSE,TRUE,FALSE,uni_completo,varon,Sociales y empresariales,Conocimiento,1603155179327
+-MK2YTw7zh5O-0N6rRKW,Matemáticas,46,Textos de pedagogía. J Dewey,FALSE,FALSE,TRUE,FALSE,posgrado_completo,mujer,"Física, comput. e ingeniería",Conocimiento,1603155754481
+-MK66xQT-woKEPPt8iKS,Ing. Eléctrica y de la Información,27,NA,TRUE,TRUE,TRUE,FALSE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1603215922908
+-MK7aG6SjgXcx69lI1rr,Derecho,72,NA,FALSE,FALSE,TRUE,FALSE,posgrado_completo,varon,Sociales y empresariales,Conocimiento,1603240485976
+-MKBEYtuexJjnjsc-ZCb,Ing. Eléctrica y de la Información,22,Google,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1603301821505
+-MKBZc9kL6y2DdKH45O3,Sociología y Política,22,twitter,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1603307161279
+-MKCn3oI0Tf1qKyXvEZ2,Comunicación y Medios,38,IBM,TRUE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1603327843336
+-MKD0P4C0TA-bGd5jytp,Educación,58,Internet,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1603331573111
+-MKI3I8SQpoU01jo59Nu,Computación e Informática,36,NA,TRUE,TRUE,TRUE,TRUE,posgrado_completo,varon,"Física, comput. e ingeniería",Ciencia de datos,1603412804045
+-MKNfl6SdR7h-NBvZ_Jj,Educación,40,Google,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1603510630464
+-MKXOkNDQjknCVeb1YP2,Derecho,49,linkedin,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1603673558188
+-MKY0TwPY1UNgVD4MjwE,Comunicación y Medios,52,internet,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Ciencia de datos,1603683940155
+-MKbJ5Ed5jR7iiuGHar5,Educación,52,Tecnoética,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1603755682891
+-MKc18qPjUPSYiUegjSz,Psicología,50,DW por youtube,FALSE,TRUE,TRUE,TRUE,uni_completo,varon,Psicología y medicina,Big data,1603767677067
+-MKfP174lGReLtLxzj4S,Psicología,54,Investigación y ciencia España,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1603824203840
+-ML7vS4tfqywTm7SVODZ,Sociología y Política,29,blogs de R,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1604318335940
+-ML85E5fIDScNVa43NZp,Sociología y Política,28,El Gato y la Caja,TRUE,FALSE,FALSE,TRUE,posgrado_curso,varon,Sociales y empresariales,Inteligencia artificial,1604320367614
+-MLOCWpsq5zcw_B4ekjx,Sociología y Política,49,youtube,TRUE,FALSE,FALSE,FALSE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1604593041830
+-MLOi-xh9E2OTlK96Wbl,Filosofía y Religión,65,Facebook,FALSE,FALSE,FALSE,TRUE,posgrado_completo,varon,Humanidades,Big data,1604601615497
+-MLPiOWKMSfxELGJZ-b0,Educación,61,Internet,TRUE,FALSE,FALSE,TRUE,posgrado_completo,mujer,Sociales y empresariales,Big data,1604618301491
+-MLQ-7jgiiIl4wcO5Iod,Comunicación y Medios,58,faceboo,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1604623090153
+-MLQq2HSuKCBcMaFvvK9,Computación e Informática,65,LeMonde,TRUE,TRUE,TRUE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Big data,1604636795002
+-MLR-usY5pe5nDXrGI8b,Computación e Informática,46,"Youtube, Miriadax, edx, Coursera",TRUE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1604639445671
+-MLR7MPhK2XCno_iqlDX,Psicología,35,clarin,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Big data,1604642059778
+-MLSLYhelOqYAdfxsAl1,Historia y Antropología,63,Ninguna,FALSE,TRUE,TRUE,FALSE,uni_completo,mujer,Humanidades,Big data,1604662470541
+-MLSXmD3hmOnyus5Ew4T,Psicología,41,Ninguno específicamente,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1604665669060
+-MLSwNTv-pwfEi4pbLcC,Computación e Informática,34,NA,FALSE,TRUE,TRUE,FALSE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1604672281042
+-MLXt4an9A8nPM2k32Lk,"Economía, Negocios y Administración",50,Sociedad Ecuatoriana de estadísticas,TRUE,FALSE,FALSE,TRUE,posgrado_completo,mujer,Sociales y empresariales,Big data,1604755385776
+-MLYI3-4DIiw96l6YXh6,Otras Médicas y de la Salud,52,internet,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Psicología y medicina,Inteligencia artificial,1604762326656
+-MLbm_HvztjTY5SpqHSb,Psicología,56,La Nación El Pais,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1604836663770
+-MLepYbouoqwmtJNRRbK,Educación,44,Facebook,FALSE,FALSE,FALSE,TRUE,posgrado_curso,varon,Sociales y empresariales,Big data,1604888722632
+-MLj75YRdF8OayI_YSYk,"Economía, Negocios y Administración",62,Experiencia Personal,FALSE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1604960644809
+-MLjFdh7FZ9HXdG4kn72,Sociología y Política,44,Página 12. Alta data,FALSE,TRUE,FALSE,FALSE,uni_completo,varon,Sociales y empresariales,Inteligencia artificial,1604962910147
+-MLjoVz5SmA1mjjGUg-4,Psicología,51,Clarin,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,Psicología y medicina,Big data,1604972395611
+-MLtIssGbdgViO8EAnsB,Sociología y Política,60,la Nacion,FALSE,TRUE,FALSE,FALSE,posgrado_completo,mujer,Sociales y empresariales,Big data,1605131677147
+-MLzJP5OPDMNyjzga20r,Medicina,64,NA,TRUE,FALSE,TRUE,FALSE,uni_completo,mujer,Psicología y medicina,Big data,1605232267147
+-MLzWVMlaghBvoodHU0o,Psicología,24,Neurotransmitiendo (página de instagram),FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1605235825092
+-MLzxLu_plxUcwg2yan3,Comunicación y Medios,58,RED SOCIAL,TRUE,FALSE,FALSE,FALSE,posgrado_completo,mujer,Sociales y empresariales,Inteligencia artificial,1605243092230
+-MM0WgNNTWZX7RxcRr9t,Derecho,62,The lancet,FALSE,TRUE,FALSE,FALSE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1605269330450
+-MM1BFTeXDsl45QJu9wV,Sociología y Política,40,"Revistas de ciencia, papers, artículos periodísticos",TRUE,TRUE,FALSE,TRUE,posgrado_completo,mujer,Sociales y empresariales,Inteligencia artificial,1605280123092
+-MM1HiQs8bhviZSuYPMN,Ciencias de la Salud,60,NA,FALSE,FALSE,FALSE,TRUE,posgrado_completo,mujer,Psicología y medicina,Big data,1605282373106
+-MM3I4Xnq8cheDO8b4Sm,Ciencias de la Salud,69,Clarín,FALSE,TRUE,FALSE,FALSE,uni_completo,varon,Psicología y medicina,Inteligencia artificial,1605315945335
+-MM61YpZeQIAbLmBkGrN,Computación e Informática,47,UTN FRT,FALSE,TRUE,TRUE,FALSE,posgrado_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1605361642474
+-MM7Yo-7GxNnXZyKcjKf,Otras Naturales y Exactas,39,Internet,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Big data,1605387457378
+-MM86Yjoq_113AlNA7Hv,"Economía, Negocios y Administración",60,NA,TRUE,FALSE,FALSE,TRUE,posgrado_completo,varon,Sociales y empresariales,Inteligencia artificial,1605396626644
+-MM8FtmWeg3r_BMWcbLr,"Turismo, Eventos y Gastronomía",48,TN Clarin,FALSE,TRUE,FALSE,TRUE,uni_completo,varon,Sociales y empresariales,Big data,1605399244483
+-MM8aMK1YZ6AiZ9OfLGm,Educación,50,NA,FALSE,FALSE,FALSE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Big data,1605404890933
+-MMA3M-WS3ySl6CTG1to,Otras Humanidades,48,Base de datos,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,Humanidades,Big data,1605429291807
+-MMBXdmzqVokHX2B9bMM,Otras Humanidades,63,NA,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Humanidades,Big data,1605454275439
+-MMBqICRyPxt8eTveAcP,Educación,24,Facebook,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1605459263976
+-MMCEB6Cs23tAF9gRaT6,Física,33,Kaggle,TRUE,FALSE,FALSE,FALSE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1605466021148
+-MMDbwLyHiqYw7KMtGDW,"Turismo, Eventos y Gastronomía",65,NA,FALSE,FALSE,TRUE,FALSE,posgrado_curso,mujer,Sociales y empresariales,Big data,1605489180909
+-MME3kIEABvjGHIETyez,Lengua y Literatura,49,YouTube,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Humanidades,Inteligencia artificial,1605496668279
+-MNUEENLcQ_awqZFC8rV,Psicología,58,Youtube,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1606841248131
+-MO400KVthenDRhPgXKp,Lengua y Literatura,55,Varios,FALSE,TRUE,FALSE,TRUE,uni_completo,varon,Humanidades,Big data,1607475466760
+-MO44uJ7Wrqe4QAlSNUm,Educación,56,"Internet (diarios, investigaciones, libros, etc)",TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1607475447362
+-MO45KPcOZowG1uKAUMA,"Urbanismo, Geografía y Arquitectura",54,Redes y noticias,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1607476786996
+-MO4BCVbTt84raAy3Qcs,Computación e Informática,38,Unlp,TRUE,TRUE,TRUE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1607478179610
+-MO4YBQ3eH4gNQdBzobR,Lengua y Literatura,77,la web,TRUE,TRUE,FALSE,FALSE,uni_completo,mujer,Humanidades,Big data,1607484485541
+-MO4jK-s_-051I7hC8cx,Matemáticas,20,NA,TRUE,TRUE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1607487702862
+-MO50TVHcm_tZjzBvbj-,Psicología,76,fuentes propias y varias,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Psicología y medicina,Inteligencia artificial,1607492211787
+-MO6D6_ijowDF31o8qqE,Computación e Informática,30,edx.org,TRUE,TRUE,FALSE,TRUE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1607512503877
+-MO7WBQZMCJiGkty2kSp,Educación,67,diarios extrajeros,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1607534221471
+-MO7ltqjRlPbC6HIssjp,Psicología,70,NA,FALSE,FALSE,FALSE,FALSE,uni_completo,mujer,Psicología y medicina,Big data,1607538464042
+-MO7qjKMN7eFXgn7orgV,Matemáticas,61,clarin,FALSE,TRUE,TRUE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1607536259045
+-MO84LCOOy-36W6ija_B,Otras Naturales y Exactas,25,Gloogle news,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1607544506531
+-MO8QTOjcb08SIK8g7fx,"Economía, Negocios y Administración",34,Internet,TRUE,TRUE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1607549467289
+-MOAxyBAuPqM0VyZAqKM,Sociología y Política,34,"Comunidad R , stack overflow, github",TRUE,FALSE,TRUE,TRUE,posgrado_completo,mujer,Sociales y empresariales,Inteligencia artificial,1607591727248
+-MOBPk_BX3Ws5dVzyWWn,Educación,44,"Facebook, UNED",TRUE,TRUE,TRUE,TRUE,posgrado_curso,varon,Sociales y empresariales,Inteligencia artificial,1607599354959
+-MOCEZNXV-DoYjWASg-S,"Economía, Negocios y Administración",44,EduCaixa,TRUE,TRUE,FALSE,TRUE,uni_completo,varon,Sociales y empresariales,Inteligencia artificial,1607608747563
+-MOCKpw1sMrvqTcBTPPN,Física,56,Pagina 12,FALSE,FALSE,FALSE,TRUE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1607615220554
+-MODbnI-5VUOlIsPhFVK,Ing. Química,23,youtube,TRUE,FALSE,FALSE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1607636499009
+-MOEaPDOe2Wi94EYyA9c,"Economía, Negocios y Administración",26,NA,TRUE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1607652946092
+-MOFNcNwtvqZoUYI3rtg,"Economía, Negocios y Administración",42,Universidad,TRUE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Big data,1607666012769
+-MOI5QN5ClfIvLo9bBdB,Educación,35,NA,FALSE,FALSE,FALSE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Big data,1607711815534
+-MOI_T_wGnPwAbuTr_Fc,Educación,29,NA,FALSE,FALSE,TRUE,FALSE,uni_completo,varon,Sociales y empresariales,Inteligencia artificial,1607719739768
+-MOJA5-IyI0Cq2Yvnoeg,Otras Humanidades,23,No tengo una página específica.,FALSE,FALSE,TRUE,TRUE,uni_curso,varon,Humanidades,Inteligencia artificial,1607729799326
+-MOLvQ6Rf_0nzH1A5MKR,Historia y Antropología,45,El destape pagina 12,FALSE,FALSE,TRUE,TRUE,uni_completo,mujer,Humanidades,Inteligencia artificial,1607775870719
+-MOMbebly0EmxgxFiqac,Arte,44,canal tecnologico de aire,FALSE,TRUE,FALSE,FALSE,uni_curso,mujer,Humanidades,Inteligencia artificial,1607787523453
+-MONEbzA-Jlym0UvY54j,Historia y Antropología,58,Internet,FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Humanidades,Inteligencia artificial,1607798086812
+-MONQ0F5dkFkOm8rP-yC,Computación e Informática,19,"YouTube - ""AprendeIA con Ligdi Gonzalez""",FALSE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1607800916019
+-MONwkLMxD4lF2rZfmfN,Otras Ingenierías,43,"Dialnet, IATED, congresos TEDx",TRUE,FALSE,TRUE,TRUE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1607808878332
+-MOPRrWwutkkwga4-ICU,Filosofía y Religión,52,NA,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Big data,1607835051076
+-MOQ7IBHLrbgCW4vzd75,Otras Naturales y Exactas,19,Coursera,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1607845707174
+-MOQb5jH5h7g_RjWllOL,Computación e Informática,59,Publicaciones de Ieee y Acm,TRUE,TRUE,TRUE,TRUE,posgrado_curso,varon,"Física, comput. e ingeniería",Big data,1607854298735
+-MOT9rUexFQzWK9vd9JT,Computación e Informática,31,NA,TRUE,TRUE,TRUE,FALSE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1607897341332
+-MOUie1lS4spfUxXwR06,Filosofía y Religión,49,YouTube,TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Humanidades,Inteligencia artificial,1607923470133
+-MOV9pskfCm-iDmC3hc4,Educación,31,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1607931099603
+-MOWW1PozslL7zQ3Uu5m,Comunicación y Medios,42,Google,TRUE,TRUE,TRUE,TRUE,uni_completo,varon,Sociales y empresariales,Inteligencia artificial,1607953566834
+-MOX6OY28FHFxWiMn_hN,Matemáticas,59,Estudios,FALSE,FALSE,TRUE,FALSE,posgrado_completo,mujer,"Física, comput. e ingeniería",Big data,1607963687987
+-MOXQxsRq-1pFi7ICFDx,Matemáticas,56,Clarín,FALSE,FALSE,TRUE,FALSE,posgrado_curso,mujer,"Física, comput. e ingeniería",Big data,1607969133662
+-MOXhP4FlGqK77DBvz40,Medicina,53,NA,FALSE,TRUE,FALSE,FALSE,posgrado_curso,mujer,Psicología y medicina,Inteligencia artificial,1607973479867
+-MOYSg15dAwtcKT9jwb-,"Turismo, Eventos y Gastronomía",58,Internet .,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1607985644245
+-MOYj-2u1KzgK1Q7WLfR,Educación,26,NA,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Big data,1607990549969
+-MO_9xneLt__gTFU_46U,Matemáticas,38,"Youtube, facebook,",TRUE,FALSE,FALSE,TRUE,uni_completo,varon,"Física, comput. e ingeniería",Inteligencia artificial,1608014969080
+-MOaYEM7_lQ7HbGHOdC_,Comunicación y Medios,29,Redes sociales de ONG´s,TRUE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1608038135225
+-MObWOh6k39tV0W8DxWe,Educación,61,libros,TRUE,FALSE,FALSE,FALSE,posgrado_completo,mujer,Sociales y empresariales,Big data,1608054344644
+-MOc5qB5gZ187A94FzCQ,"Economía, Negocios y Administración",49,IBM,FALSE,FALSE,TRUE,FALSE,posgrado_curso,mujer,Sociales y empresariales,Big data,1608063991605
+-MOcnYyAE-bzFE0uby1r,Computación e Informática,41,un blog que no recuerdo el nombre,FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1608075475791
+-MOd4tdpZfpdFSlywxdQ,Computación e Informática,41,Utn,TRUE,FALSE,TRUE,FALSE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1608080782997
+-MOfWTrBF6boTpmNPSv5,Computación e Informática,40,FACULTAD DE INGENIERIA,FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1608121458716
+-MOgqe6EI9T4o52g0oXQ,Sociología y Política,25,Wikipedia,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1608143861740
+-MOhMYZ-m8Uf7ky4MVlJ,Comunicación y Medios,48,YouTube,TRUE,TRUE,TRUE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1608152215252
+-MOhgrxV2uFhk1tzR7dH,Comunicación y Medios,54,NA,FALSE,TRUE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Big data,1608158140110
+-MOic79KVG1CC3Ibn8Ss,Biología,40,Flacso,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1608173615835
+-MOmSnMKNiXPGsOaXE4v,Otras Humanidades,52,NA,FALSE,FALSE,TRUE,FALSE,uni_curso,mujer,Humanidades,Big data,1608237768897
+-MOpTDtC6o4nieaHi9dn,Ing. Eléctrica y de la Información,43,Libros,TRUE,FALSE,FALSE,TRUE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1608288313093
+-MOpjelbj0HdoS5xs_Iy,Sociología y Política,57,NA,TRUE,FALSE,FALSE,TRUE,posgrado_completo,varon,Sociales y empresariales,Big data,1608293047807
+-MOpsxdwhjYJv26Z-LMR,Educación,51,youtube,TRUE,FALSE,TRUE,TRUE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1608295365892
+-MOqIiV_TUfUz5jx7IEu,Derecho,34,MIT,TRUE,TRUE,TRUE,TRUE,posgrado_completo,mujer,Sociales y empresariales,Big data,1608302563387
+-MOsVmvcw5WBmwoSB-aB,"Urbanismo, Geografía y Arquitectura",52,"Web , Google académico,",TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1608339005615
+-MOvJrusvVV4uLhlidgH,Computación e Informática,45,variados,TRUE,TRUE,TRUE,FALSE,posgrado_curso,varon,"Física, comput. e ingeniería",Big data,1608386665150
+-MOx2s4RPCCi6muf8Oa6,Otras Médicas y de la Salud,47,ninguno,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Big data,1608415636406
+-MOxAjR19cQYVv8e92I_,Otras Ingenierías,28,YOUTUBE,TRUE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1608417448437
+-MOyXrvJ1mL5fnXfpHbD,Educación,36,NA,FALSE,FALSE,FALSE,TRUE,uni_completo,varon,Sociales y empresariales,Inteligencia artificial,1608438515310
+-MOyi9eXl9hl3BkETQsV,Computación e Informática,30,Richard Stallman,TRUE,TRUE,TRUE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1608443628870
+-MP0JfUkhCLye9ojZooh,Educación,56,Sistema Nacional de Repositorios Digitales,TRUE,FALSE,TRUE,FALSE,posgrado_completo,mujer,Sociales y empresariales,Inteligencia artificial,1608487108924
+-MP1nHo1kV4kVwPY4gwP,Otras Humanidades,29,Artículo,FALSE,FALSE,TRUE,FALSE,uni_completo,mujer,Humanidades,Big data,1608512025181
+-MP25kaF20LiPNuU9RmD,Educación,57,Red,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Sociales y empresariales,Inteligencia artificial,1608517106028
+-MP2NvbjNPxfczRGLSe6,Otras Naturales y Exactas,53,"Internet,  documentos",FALSE,FALSE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1608521734490
+-MP3pCIMRwYub8ayM8i2,Otras Ingenierías,28,La nación,TRUE,FALSE,FALSE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1608546111641
+-MP4gH2anX1rrzXAzI5k,Arte,30,Google,TRUE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Big data,1608560603663
+-MP5ieLpJ4j9qSa7xBNt,Educación,65,RepositorioUnq y unsl,TRUE,FALSE,TRUE,FALSE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1608577830224
+-MPm4v8RRhQ9vNcibwPA,Computación e Informática,34,Google,TRUE,FALSE,FALSE,FALSE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1609305300058
+-MRWI3eL-7jdzgV1VTY0,Ing. Eléctrica y de la Información,53,Facebook,FALSE,FALSE,FALSE,TRUE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1611171140703
+-MRczFdeoTWFNy71EtBN,Comunicación y Medios,34,Redes sociales,FALSE,TRUE,FALSE,FALSE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1611299971464
+-MRdbpMqNtMTvlaMaXT-,Sociología y Política,27,"no sigo nada específico, diversas fuentes",TRUE,FALSE,FALSE,FALSE,posgrado_completo,mujer,Sociales y empresariales,Inteligencia artificial,1611310604477
+-MRdyLDOe9NYn_V5cEZi,Lengua y Literatura,49,NA,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Humanidades,Big data,1611316703916
+-MRdyd28LVbYrFrC2Yaf,Física,45,Pagiba 12,FALSE,TRUE,FALSE,FALSE,uni_completo,varon,"Física, comput. e ingeniería",Big data,1611316891560
+-MReZBWUKdbBeOLqu7b6,Computación e Informática,53,"IEEE, ACM, CiteSeer",TRUE,FALSE,TRUE,FALSE,posgrado_completo,mujer,"Física, comput. e ingeniería",Big data,1611326691193
+-MRfHxpmfAaTpPCkIWtS,Ing. Eléctrica y de la Información,39,infobae,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,"Física, comput. e ingeniería",Big data,1611338759814
+-MRgd5gqT1sPRxuqRvc6,Lengua y Literatura,40,Facebook,FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Humanidades,Big data,1611361418482
+-MRgeoiYLcV9FerREfAu,"Urbanismo, Geografía y Arquitectura",40,Redes sociales,FALSE,FALSE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1611361879334
+-MRjZQw_aIQ7FRVcxb2j,Física,62,Epistemología.,TRUE,FALSE,TRUE,FALSE,posgrado_completo,varon,"Física, comput. e ingeniería",Inteligencia artificial,1611410466877
+-MRjaXfR_C2Ok75DyXn7,Historia y Antropología,47,Facebook,FALSE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1611411185865
+-MRjcLxxcxOLmO3Z6-he,Computación e Informática,50,internet,TRUE,TRUE,FALSE,FALSE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1611411504542
+-MRkEZimIj8bDLw97dNX,Sociología y Política,35,Google,TRUE,TRUE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Big data,1611421817357
+-MRk_WYHDnv0muqmM4Iw,Sociología y Política,25,Nome acuerdo,TRUE,FALSE,FALSE,TRUE,uni_curso,varon,Sociales y empresariales,Big data,1611427744000
+-MRl6ZGphEBvNfHAH_Pz,Psicología,30,YouTube,TRUE,TRUE,FALSE,TRUE,uni_curso,varon,Psicología y medicina,Inteligencia artificial,1611436297922
+-MRl7ZU2McMY5Aqd-B8t,Psicología,30,YouTube,TRUE,TRUE,FALSE,TRUE,uni_curso,varon,Psicología y medicina,Big data,1611436831792
+-MRltII4CTK3lHMz6xVa,Computación e Informática,42,youtube,FALSE,FALSE,FALSE,TRUE,uni_curso,varon,"Física, comput. e ingeniería",Big data,1611449607080
+-MRm88GK_xU2l_RGxmYy,Comunicación y Medios,56,Página 12,TRUE,TRUE,FALSE,FALSE,posgrado_curso,mujer,Sociales y empresariales,Inteligencia artificial,1611453670310
+-MRmezoM_UQZ_O8MDjs9,"Economía, Negocios y Administración",29,Youtube,FALSE,TRUE,FALSE,TRUE,uni_completo,varon,Sociales y empresariales,Big data,1611462737695
+-MRp8oQfuX-jC7hPMgvF,Ciencias de la Salud,30,"Dot CSV, Big Data Sports, Analitica Sports",TRUE,TRUE,FALSE,TRUE,uni_completo,varon,Psicología y medicina,Inteligencia artificial,1611504335691
+-MRpz6fn8rwxj_RkhQTF,Otras Humanidades,24,NA,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Humanidades,Big data,1611518254454
+-MRpz9msSJN1PP6KD9cd,Otras Ciencias Sociales y empresariales,63,Gobiernos Locales Abiertos,TRUE,FALSE,TRUE,TRUE,uni_completo,mujer,Sociales y empresariales,Big data,1611517540096
+-MRqm4K1OHsJ8cTf7Lnx,Otras Humanidades,29,NA,TRUE,FALSE,FALSE,FALSE,uni_completo,mujer,Humanidades,Big data,1611531712410
+-MRqsrFkSCy0f5riToqR,Otras Médicas y de la Salud,41,"Internet, diferentes plataformas",FALSE,TRUE,TRUE,FALSE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1611533207055
+-MRtNpdQfYgOUvhTXlio,"Economía, Negocios y Administración",45,Infobae,FALSE,TRUE,FALSE,TRUE,uni_completo,mujer,Sociales y empresariales,Inteligencia artificial,1611575193686
+-MRtrH93JCyqS_OdgvhK,Física,65,NA,FALSE,TRUE,TRUE,FALSE,posgrado_curso,varon,"Física, comput. e ingeniería",Big data,1611583646997
+-MRwaYS7xX5coEJksQsP,Computación e Informática,23,Linkedin,TRUE,FALSE,TRUE,FALSE,posgrado_curso,mujer,"Física, comput. e ingeniería",Inteligencia artificial,1611629202848
+-MRx-q0Ge_tHyLNtwlTA,Ciencias de la Salud,26,NA,FALSE,TRUE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1611636021546
+-MS-TcgupOGEvb1eO8mn,Psicología,24,Coursera,TRUE,FALSE,FALSE,TRUE,uni_curso,mujer,Psicología y medicina,Inteligencia artificial,1611694306934
+-MS0bJtlJowjcBq-nJRy,Lengua y Literatura,36,Twitter,FALSE,TRUE,TRUE,TRUE,uni_curso,mujer,Humanidades,Inteligencia artificial,1611713415560
+-MS0bf_J5MixL6cTfXTc,Otras Médicas y de la Salud,36,Google,FALSE,FALSE,FALSE,TRUE,uni_completo,varon,Psicología y medicina,Big data,1611713508830
+-MS2u0G6zHD0HLiitqHI,Derecho,29,Youtube,TRUE,FALSE,TRUE,TRUE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1611751833116
+-MS2ucfY8ahlDfAtnUOv,Sociología y Política,38,"Infotechnology,  Harari , Cristóbal Cobo",TRUE,TRUE,FALSE,TRUE,posgrado_completo,mujer,Sociales y empresariales,Inteligencia artificial,1611751969810
+-MS3-NGvjedK31Y2-Pm1,Ing. Eléctrica y de la Información,64,NA,FALSE,TRUE,TRUE,FALSE,posgrado_curso,varon,"Física, comput. e ingeniería",Inteligencia artificial,1611753305651
+-MS3Q4UdbHEJF8oW4N_n,Educación,20,"Página oficial de la facultad, Google Académico",FALSE,FALSE,TRUE,FALSE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1611760486443
+-MS3vCvqTHVaVeJwTFoG,Psicología,70,varios,TRUE,FALSE,FALSE,FALSE,uni_completo,varon,Psicología y medicina,Big data,1611768812619
+-MS4IhJXtxWGTAoGZkUI,Otras Ciencias Sociales y empresariales,34,Youtube,TRUE,FALSE,TRUE,TRUE,uni_completo,varon,Sociales y empresariales,Big data,1611775356344
+-MS4tIHsm8l4EX75DqIA,"Economía, Negocios y Administración",25,YouTube,TRUE,TRUE,TRUE,TRUE,uni_curso,varon,Sociales y empresariales,Inteligencia artificial,1611785202338
